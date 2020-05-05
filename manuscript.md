@@ -67,11 +67,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://SharikHR.github.io/review/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://SharikHR.github.io/review/v/20d1b72df7295e18329e4e6cf70782d7b5f69f2b/" />
+  <link rel="alternate" type="text/html" href="https://SharikHR.github.io/review/v/5c34650264326f3e3980521d4e68aa9690412b1e/" />
 
-  <meta name="manubot_html_url_versioned" content="https://SharikHR.github.io/review/v/20d1b72df7295e18329e4e6cf70782d7b5f69f2b/" />
+  <meta name="manubot_html_url_versioned" content="https://SharikHR.github.io/review/v/5c34650264326f3e3980521d4e68aa9690412b1e/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://SharikHR.github.io/review/v/20d1b72df7295e18329e4e6cf70782d7b5f69f2b/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://SharikHR.github.io/review/v/5c34650264326f3e3980521d4e68aa9690412b1e/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -106,9 +106,9 @@ title: 3D tumor spheroids
 
 <small><em>
 This manuscript
-([permalink](https://SharikHR.github.io/review/v/20d1b72df7295e18329e4e6cf70782d7b5f69f2b/))
+([permalink](https://SharikHR.github.io/review/v/5c34650264326f3e3980521d4e68aa9690412b1e/))
 was automatically generated
-from [SharikHR/review@20d1b72](https://github.com/SharikHR/review/tree/20d1b72df7295e18329e4e6cf70782d7b5f69f2b)
+from [SharikHR/review@5c34650](https://github.com/SharikHR/review/tree/5c34650264326f3e3980521d4e68aa9690412b1e)
 on May 5, 2020.
 </em></small>
 
@@ -144,6 +144,9 @@ Open collaborative writing with Manubot @doi:10.1371/journal.pcbi.1007128
 
 
 ## Pancreatic tumor microenvironment
+
+In Pancreatic ductal adenocarcinoma (PDAC), the major components of the tumor microenvironment are a complex population of fibroblasts forming the bulk of the stroma, vasculature, inflammatory and immune cells @doi:10.1002/jcb.21209.
+PDAC is associated with evolving alterations in the tumor microenvironment, including increasing fibrosis and extracellular matrix deposition (desmoplasia). Increasing desmoplasia accompanies progressive disease and creates intratumoral pressure that compresses the vasculature, resulting in limited blood flow to the tumor and consequent hypoxia and low nutrient delivery @doi:10.1158/2159-8290.CD-15-0671.
 
 
 ## 2D and 3D cell cultures
