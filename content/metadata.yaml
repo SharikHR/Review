@@ -1,26 +1,29 @@
 ---
-title: "Manuscript Title"
+title: "3D tumor spheroids"
 keywords:
   - markdown
   - publishing
   - manubot
+  - 3D
+  - spheroid
+  -cancer
 lang: en-US
 authors:
-  - github: johndoe
-    name: John Doe
-    initials: JD
+  - github: SharikHR
+    name: Sharik Hernandez
+    initials: SHR
     orcid: XXXX-XXXX-XXXX-XXXX
-    twitter: johndoe
-    email: john.doe@something.com
+    twitter: 
+    email: 
     affiliations:
-      - Department of Something, University of Whatever
+      - Department of 
     funders:
       - Grant XXXXXXXX
-  - github: janeroe
-    name: Jane Roe
-    initials: JR
+  - github: 
+    name: 
+    initials: JMZ
     orcid: XXXX-XXXX-XXXX-XXXX
-    email: jane.roe@whatever.edu
+    email: 
     affiliations:
-      - Department of Something, University of Whatever
-      - Department of Whatever, University of Something
+      - Department of 
+      - Department of
