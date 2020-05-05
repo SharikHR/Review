@@ -1,7 +1,7 @@
 ---
 author-meta:
-- John Doe
-- Jane Roe
+- Sharik Hernandez
+- null
 bibliography:
 - content/manual-references.json
 date-meta: '2020-05-05'
@@ -15,13 +15,13 @@ header-includes: '<!--
 
   <meta name="dc.format" content="text/html" />
 
-  <meta name="dc.title" content="Manuscript Title" />
+  <meta name="dc.title" content="3D tumor spheroids" />
 
-  <meta name="citation_title" content="Manuscript Title" />
+  <meta name="citation_title" content="3D tumor spheroids" />
 
-  <meta property="og:title" content="Manuscript Title" />
+  <meta property="og:title" content="3D tumor spheroids" />
 
-  <meta property="twitter:title" content="Manuscript Title" />
+  <meta property="twitter:title" content="3D tumor spheroids" />
 
   <meta name="dc.date" content="2020-05-05" />
 
@@ -39,19 +39,19 @@ header-includes: '<!--
 
   <meta name="citation_technical_report_institution" content="Manubot" />
 
-  <meta name="citation_author" content="John Doe" />
+  <meta name="citation_author" content="Sharik Hernandez" />
 
-  <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
+  <meta name="citation_author_institution" content="Department of" />
 
   <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
 
-  <meta name="twitter:creator" content="@johndoe" />
+  <meta name="twitter:creator" content="@None" />
 
-  <meta name="citation_author" content="Jane Roe" />
+  <meta name="citation_author" content="None" />
 
-  <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
+  <meta name="citation_author_institution" content="Department of" />
 
-  <meta name="citation_author_institution" content="Department of Whatever, University of Something" />
+  <meta name="citation_author_institution" content="Department of" />
 
   <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
 
@@ -67,11 +67,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://SharikHR.github.io/review/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://SharikHR.github.io/review/v/45cd8b8a1856587ab6ef9bd4e5792d4c067d4458/" />
+  <link rel="alternate" type="text/html" href="https://SharikHR.github.io/review/v/20d1b72df7295e18329e4e6cf70782d7b5f69f2b/" />
 
-  <meta name="manubot_html_url_versioned" content="https://SharikHR.github.io/review/v/45cd8b8a1856587ab6ef9bd4e5792d4c067d4458/" />
+  <meta name="manubot_html_url_versioned" content="https://SharikHR.github.io/review/v/20d1b72df7295e18329e4e6cf70782d7b5f69f2b/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://SharikHR.github.io/review/v/45cd8b8a1856587ab6ef9bd4e5792d4c067d4458/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://SharikHR.github.io/review/v/20d1b72df7295e18329e4e6cf70782d7b5f69f2b/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -88,12 +88,15 @@ keywords:
 - markdown
 - publishing
 - manubot
+- 3D
+- spheroid
+- cancer
 lang: en-US
 manubot-clear-requests-cache: false
 manubot-output-bibliography: output/references.json
 manubot-output-citekeys: output/citations.tsv
 manubot-requests-cache-path: ci/cache/requests-cache
-title: Manuscript Title
+title: 3D tumor spheroids
 ...
 
 
@@ -103,9 +106,9 @@ title: Manuscript Title
 
 <small><em>
 This manuscript
-([permalink](https://SharikHR.github.io/review/v/45cd8b8a1856587ab6ef9bd4e5792d4c067d4458/))
+([permalink](https://SharikHR.github.io/review/v/20d1b72df7295e18329e4e6cf70782d7b5f69f2b/))
 was automatically generated
-from [SharikHR/review@45cd8b8](https://github.com/SharikHR/review/tree/45cd8b8a1856587ab6ef9bd4e5792d4c067d4458)
+from [SharikHR/review@20d1b72](https://github.com/SharikHR/review/tree/20d1b72df7295e18329e4e6cf70782d7b5f69f2b)
 on May 5, 2020.
 </em></small>
 
@@ -113,25 +116,21 @@ on May 5, 2020.
 
 
 
-+ **John Doe**<br>
++ **Sharik Hernandez**<br>
     ![ORCID icon](images/orcid.svg){.inline_icon}
     [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
     · ![GitHub icon](images/github.svg){.inline_icon}
-    [johndoe](https://github.com/johndoe)
-    · ![Twitter icon](images/twitter.svg){.inline_icon}
-    [johndoe](https://twitter.com/johndoe)<br>
+    [SharikHR](https://github.com/SharikHR)<br>
   <small>
-     Department of Something, University of Whatever
+     Department of
      · Funded by Grant XXXXXXXX
   </small>
 
-+ **Jane Roe**<br>
++ **None**<br>
     ![ORCID icon](images/orcid.svg){.inline_icon}
-    [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
-    · ![GitHub icon](images/github.svg){.inline_icon}
-    [janeroe](https://github.com/janeroe)<br>
+    [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)<br>
   <small>
-     Department of Something, University of Whatever; Department of Whatever, University of Something
+     Department of; Department of
   </small>
 
 
