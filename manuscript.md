@@ -67,11 +67,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://SharikHR.github.io/review/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://SharikHR.github.io/review/v/ae49c25d726504a21dc4172acb5f0bdca112e806/" />
+  <link rel="alternate" type="text/html" href="https://SharikHR.github.io/review/v/f13cec41a5d26c67515f31df03b2333a44d2e945/" />
 
-  <meta name="manubot_html_url_versioned" content="https://SharikHR.github.io/review/v/ae49c25d726504a21dc4172acb5f0bdca112e806/" />
+  <meta name="manubot_html_url_versioned" content="https://SharikHR.github.io/review/v/f13cec41a5d26c67515f31df03b2333a44d2e945/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://SharikHR.github.io/review/v/ae49c25d726504a21dc4172acb5f0bdca112e806/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://SharikHR.github.io/review/v/f13cec41a5d26c67515f31df03b2333a44d2e945/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -103,9 +103,9 @@ title: Manuscript Title
 
 <small><em>
 This manuscript
-([permalink](https://SharikHR.github.io/review/v/ae49c25d726504a21dc4172acb5f0bdca112e806/))
+([permalink](https://SharikHR.github.io/review/v/f13cec41a5d26c67515f31df03b2333a44d2e945/))
 was automatically generated
-from [SharikHR/review@ae49c25](https://github.com/SharikHR/review/tree/ae49c25d726504a21dc4172acb5f0bdca112e806)
+from [SharikHR/review@f13cec4](https://github.com/SharikHR/review/tree/f13cec41a5d26c67515f31df03b2333a44d2e945)
 on May 5, 2020.
 </em></small>
 
@@ -138,7 +138,7 @@ on May 5, 2020.
 
 ## Abstract {.page_break_before}
 
-
+Open collaborative writing with Manubot @doi:10.1371/journal.pcbi.1007128
 
 
 ## References {.page_break_before}
