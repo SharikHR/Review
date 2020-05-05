@@ -67,11 +67,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://SharikHR.github.io/review/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://SharikHR.github.io/review/v/cd719560652f47fc3bcb509ffbe501b1ad94a419/" />
+  <link rel="alternate" type="text/html" href="https://SharikHR.github.io/review/v/ef7e4c013a092a05a0a1cdd8e42c613f51f8a902/" />
 
-  <meta name="manubot_html_url_versioned" content="https://SharikHR.github.io/review/v/cd719560652f47fc3bcb509ffbe501b1ad94a419/" />
+  <meta name="manubot_html_url_versioned" content="https://SharikHR.github.io/review/v/ef7e4c013a092a05a0a1cdd8e42c613f51f8a902/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://SharikHR.github.io/review/v/cd719560652f47fc3bcb509ffbe501b1ad94a419/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://SharikHR.github.io/review/v/ef7e4c013a092a05a0a1cdd8e42c613f51f8a902/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -103,9 +103,9 @@ title: Manuscript Title
 
 <small><em>
 This manuscript
-([permalink](https://SharikHR.github.io/review/v/cd719560652f47fc3bcb509ffbe501b1ad94a419/))
+([permalink](https://SharikHR.github.io/review/v/ef7e4c013a092a05a0a1cdd8e42c613f51f8a902/))
 was automatically generated
-from [SharikHR/review@cd71956](https://github.com/SharikHR/review/tree/cd719560652f47fc3bcb509ffbe501b1ad94a419)
+from [SharikHR/review@ef7e4c0](https://github.com/SharikHR/review/tree/ef7e4c013a092a05a0a1cdd8e42c613f51f8a902)
 on May 5, 2020.
 </em></small>
 
@@ -151,6 +151,9 @@ Open collaborative writing with Manubot @doi:10.1371/journal.pcbi.1007128
 
 
 ## The structure of multicellular spheroids.
+
+
+## Methods for the generation of MCS
 
 
 ## References {.page_break_before}
