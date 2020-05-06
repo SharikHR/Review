@@ -67,11 +67,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://SharikHR.github.io/review/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://SharikHR.github.io/review/v/b08829ffdd20c0f20902167caf535f15de5612d9/" />
+  <link rel="alternate" type="text/html" href="https://SharikHR.github.io/review/v/764a789b82dfdb8ad5d44243547f54f52daf339e/" />
 
-  <meta name="manubot_html_url_versioned" content="https://SharikHR.github.io/review/v/b08829ffdd20c0f20902167caf535f15de5612d9/" />
+  <meta name="manubot_html_url_versioned" content="https://SharikHR.github.io/review/v/764a789b82dfdb8ad5d44243547f54f52daf339e/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://SharikHR.github.io/review/v/b08829ffdd20c0f20902167caf535f15de5612d9/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://SharikHR.github.io/review/v/764a789b82dfdb8ad5d44243547f54f52daf339e/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -106,9 +106,9 @@ title: 3D tumor spheroids
 
 <small><em>
 This manuscript
-([permalink](https://SharikHR.github.io/review/v/b08829ffdd20c0f20902167caf535f15de5612d9/))
+([permalink](https://SharikHR.github.io/review/v/764a789b82dfdb8ad5d44243547f54f52daf339e/))
 was automatically generated
-from [SharikHR/review@b08829f](https://github.com/SharikHR/review/tree/b08829ffdd20c0f20902167caf535f15de5612d9)
+from [SharikHR/review@764a789](https://github.com/SharikHR/review/tree/764a789b82dfdb8ad5d44243547f54f52daf339e)
 on May 6, 2020.
 </em></small>
 
@@ -146,7 +146,7 @@ PDAC belongs to the top five of cancer-related deaths in the world and the poor 
 Due to that pancreatic cancer is a heterogeneous disease, is often modelled using established cell lines in the laboratory.
 
 In recent years, three-dimensional (3D) culture systems have gained increasing recognition as an effective tool for biological research. One widely used 3D culturing technique is the application of multicellular spheroids (MCS).Cells cultured in 3D more closely mimic the physiological environment compared to conventional monolayer culture systems.
-Spheroids are three-dimensional spherical cellular aggregates with high cell-density, that more closely simulate conditions existing in solid tumors where hypoxia and alterations related to intracellular metabolism occur due to poor availability of nutrients from blood vessels.@doi:10.1371/journal.pone.0177737
+Spheroids are three-dimensional spherical cellular aggregates with high cell-density, that more closely simulate conditions existing in solid tumors where hypoxia and alterations related to intracellular metabolism occur due to poor availability of nutrients from blood vessels @doi:10.1371/journal.pone.0177737.
 
 
 ## Pancreatic tumor microenvironment
