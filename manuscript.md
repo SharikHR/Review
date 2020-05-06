@@ -4,7 +4,7 @@ author-meta:
 - null
 bibliography:
 - content/manual-references.json
-date-meta: '2020-05-05'
+date-meta: '2020-05-06'
 header-includes: '<!--
 
   Manubot generated metadata rendered from header-includes-template.html.
@@ -23,9 +23,9 @@ header-includes: '<!--
 
   <meta property="twitter:title" content="3D tumor spheroids" />
 
-  <meta name="dc.date" content="2020-05-05" />
+  <meta name="dc.date" content="2020-05-06" />
 
-  <meta name="citation_publication_date" content="2020-05-05" />
+  <meta name="citation_publication_date" content="2020-05-06" />
 
   <meta name="dc.language" content="en-US" />
 
@@ -67,11 +67,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://SharikHR.github.io/review/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://SharikHR.github.io/review/v/5c34650264326f3e3980521d4e68aa9690412b1e/" />
+  <link rel="alternate" type="text/html" href="https://SharikHR.github.io/review/v/701eaad5965838506041d4b99c8ff616248ac99a/" />
 
-  <meta name="manubot_html_url_versioned" content="https://SharikHR.github.io/review/v/5c34650264326f3e3980521d4e68aa9690412b1e/" />
+  <meta name="manubot_html_url_versioned" content="https://SharikHR.github.io/review/v/701eaad5965838506041d4b99c8ff616248ac99a/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://SharikHR.github.io/review/v/5c34650264326f3e3980521d4e68aa9690412b1e/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://SharikHR.github.io/review/v/701eaad5965838506041d4b99c8ff616248ac99a/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -106,10 +106,10 @@ title: 3D tumor spheroids
 
 <small><em>
 This manuscript
-([permalink](https://SharikHR.github.io/review/v/5c34650264326f3e3980521d4e68aa9690412b1e/))
+([permalink](https://SharikHR.github.io/review/v/701eaad5965838506041d4b99c8ff616248ac99a/))
 was automatically generated
-from [SharikHR/review@5c34650](https://github.com/SharikHR/review/tree/5c34650264326f3e3980521d4e68aa9690412b1e)
-on May 5, 2020.
+from [SharikHR/review@701eaad](https://github.com/SharikHR/review/tree/701eaad5965838506041d4b99c8ff616248ac99a)
+on May 6, 2020.
 </em></small>
 
 ## Authors
@@ -141,6 +141,12 @@ Open collaborative writing with Manubot @doi:10.1371/journal.pcbi.1007128
 
 
 ## Introduction
+
+PDAC belongs to the top five of cancer-related deaths in the world and the poor prognosis is primarily due to its advanced stage at diagnosis , the progress in its treatment remains too slow as a consequence of the complex physiopathology of this tumor characterized by a heterogeneous cellular composition and the accumulation of a very dense fibrotic tissue @doi:
+Due to that pancreatic cancer is a heterogeneous disease, is often modelled using established cell lines in the laboratory.
+
+In recent years, three-dimensional (3D) culture systems have gained increasing recognition as an effective tool for biological research. One widely used 3D culturing technique is the application of multicellular spheroids (MCS).Cells cultured in 3D more closely mimic the physiological environment compared to conventional monolayer culture systems.
+Spheroids are three-dimensional spherical cellular aggregates with high cell-density, that more closely simulate conditions existing in solid tumors where hypoxia and alterations related to intracellular metabolism occur due to poor availability of nutrients from blood vessels.@doi:10.1371/journal.pone.0177737
 
 
 ## Pancreatic tumor microenvironment
