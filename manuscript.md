@@ -67,11 +67,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://SharikHR.github.io/review/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://SharikHR.github.io/review/v/701eaad5965838506041d4b99c8ff616248ac99a/" />
+  <link rel="alternate" type="text/html" href="https://SharikHR.github.io/review/v/b08829ffdd20c0f20902167caf535f15de5612d9/" />
 
-  <meta name="manubot_html_url_versioned" content="https://SharikHR.github.io/review/v/701eaad5965838506041d4b99c8ff616248ac99a/" />
+  <meta name="manubot_html_url_versioned" content="https://SharikHR.github.io/review/v/b08829ffdd20c0f20902167caf535f15de5612d9/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://SharikHR.github.io/review/v/701eaad5965838506041d4b99c8ff616248ac99a/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://SharikHR.github.io/review/v/b08829ffdd20c0f20902167caf535f15de5612d9/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -106,9 +106,9 @@ title: 3D tumor spheroids
 
 <small><em>
 This manuscript
-([permalink](https://SharikHR.github.io/review/v/701eaad5965838506041d4b99c8ff616248ac99a/))
+([permalink](https://SharikHR.github.io/review/v/b08829ffdd20c0f20902167caf535f15de5612d9/))
 was automatically generated
-from [SharikHR/review@701eaad](https://github.com/SharikHR/review/tree/701eaad5965838506041d4b99c8ff616248ac99a)
+from [SharikHR/review@b08829f](https://github.com/SharikHR/review/tree/b08829ffdd20c0f20902167caf535f15de5612d9)
 on May 6, 2020.
 </em></small>
 
@@ -156,6 +156,9 @@ PDAC is associated with evolving alterations in the tumor microenvironment, incl
 
 
 ## 2D and 3D cell cultures
+
+Cell culture is a widely used *in vitro* tool to improve the understanding of cell biology, cellular mechanisms, tissue morphology, drug action, protein production and the development of tissue engineering @doi:10.5114/aoms.2016.63743.
+
 
 
 ## The structure of multicellular spheroids.
