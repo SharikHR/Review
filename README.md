@@ -1,7 +1,7 @@
 # Output directory containing the formatted manuscript
 
 The [`gh-pages`](https://github.com/SharikHR/review/tree/gh-pages) branch hosts the contents of this directory at <https://SharikHR.github.io/review/>.
-The permalink for this webpage version is <https://SharikHR.github.io/review/v/d14f83fca053f3cbe8605bdec756b317fb1db3df/>.
+The permalink for this webpage version is <https://SharikHR.github.io/review/v/d4c1c012859f1a586063feb66470356c7d9702b0/>.
 To redirect to the permalink for the latest manuscript version at anytime, use the link <https://SharikHR.github.io/review/v/freeze/>.
 
 ## Files
@@ -35,4 +35,4 @@ Verifying timestamps with the `ots verify` command requires running a local bitc
 ## Source
 
 The manuscripts in this directory were built from
-[`d14f83fca053f3cbe8605bdec756b317fb1db3df`](https://github.com/SharikHR/review/commit/d14f83fca053f3cbe8605bdec756b317fb1db3df).
+[`d4c1c012859f1a586063feb66470356c7d9702b0`](https://github.com/SharikHR/review/commit/d4c1c012859f1a586063feb66470356c7d9702b0).
