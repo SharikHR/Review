@@ -67,11 +67,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://SharikHR.github.io/review/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://SharikHR.github.io/review/v/d14f83fca053f3cbe8605bdec756b317fb1db3df/" />
+  <link rel="alternate" type="text/html" href="https://SharikHR.github.io/review/v/d4c1c012859f1a586063feb66470356c7d9702b0/" />
 
-  <meta name="manubot_html_url_versioned" content="https://SharikHR.github.io/review/v/d14f83fca053f3cbe8605bdec756b317fb1db3df/" />
+  <meta name="manubot_html_url_versioned" content="https://SharikHR.github.io/review/v/d4c1c012859f1a586063feb66470356c7d9702b0/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://SharikHR.github.io/review/v/d14f83fca053f3cbe8605bdec756b317fb1db3df/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://SharikHR.github.io/review/v/d4c1c012859f1a586063feb66470356c7d9702b0/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -106,9 +106,9 @@ title: 3D tumor spheroids
 
 <small><em>
 This manuscript
-([permalink](https://SharikHR.github.io/review/v/d14f83fca053f3cbe8605bdec756b317fb1db3df/))
+([permalink](https://SharikHR.github.io/review/v/d4c1c012859f1a586063feb66470356c7d9702b0/))
 was automatically generated
-from [SharikHR/review@d14f83f](https://github.com/SharikHR/review/tree/d14f83fca053f3cbe8605bdec756b317fb1db3df)
+from [SharikHR/review@d4c1c01](https://github.com/SharikHR/review/tree/d4c1c012859f1a586063feb66470356c7d9702b0)
 on May 6, 2020.
 </em></small>
 
@@ -159,6 +159,15 @@ PDAC is associated with evolving alterations in the tumor microenvironment, incl
 
 Cell culture is a widely used *in vitro* tool to improve the understanding of cell biology, cellular mechanisms, tissue morphology, drug action, protein production and the development of tissue engineering @doi:10.5114/aoms.2016.63743.
 
+Three-dimensional (3D) cell culture is well documented to regain intrinsic metabolic properties and to better mimic the in vivo situation than two-dimensional (2D) cell culture @doi:10.1073/pnas.1918607117.
+
+
+A comparative molecular analyses from 2D and 3D *in vitro* conditions revealed that cancer cell phenotype is highly influenced by its microenvironment.Through the examination of cancer cell transcriptional behavior, cellular processes were closely linked to functions promoted by different culturing conditions. 
+Cancer cells grown in monolayers favored rapid proliferation, and this behavior was corroborated by up-regulation of cell cycle progression genes in addition to metabolic processes that synthesize DNA, RNA, and proteins. Unlike cancer cells cultured in monolayers, cancer cells in 3D down-regulate proliferative processes, while up-regulating genes involved in ECM organization and cell adhesion @doi:10.3390/cancers12030690. 
+
+When performing 3D cell culture experiments, the cell environment can be manipulated to mimic that of a cell in vivo and provide more accurate data about cell-to-cell interactions, tumor characteristics, drug discovery, metabolic profiling, stem cell research, and other types of diseases @doi:10.3389/fmolb.2020.00033. 
+
+Alterations in cancer cell behavior under different growth conditions underlie the importance of defining culturing conditions that preserve endogenous tumor behavior. While monolayer cultures promote the most non-native behavior of cancer cells, this model still maintains value due to its ease and scalability towards applications targeting cancer-growth driving pathways. However, analysis and discovery of potential therapeutics targeting stromal interactions, ECM development, or cell signaling may yield erroneous results in this system.The 3D culturing and inclusion of stromal cell types do show increased similarity to in vivo cancer behavior. However, improvements upon ex vivo culture conditions that allow all stromal components to persist will greatly enhance our ability to conduct pre-clinical screens that may more closely recapitulate the biological responses of patients @doi:10.3390/cancers12030690.
 
 
 ## The structure of multicellular spheroids.
