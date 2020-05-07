@@ -4,7 +4,7 @@ author-meta:
 - null
 bibliography:
 - content/manual-references.json
-date-meta: '2020-05-06'
+date-meta: '2020-05-07'
 header-includes: '<!--
 
   Manubot generated metadata rendered from header-includes-template.html.
@@ -23,9 +23,9 @@ header-includes: '<!--
 
   <meta property="twitter:title" content="3D tumor spheroids" />
 
-  <meta name="dc.date" content="2020-05-06" />
+  <meta name="dc.date" content="2020-05-07" />
 
-  <meta name="citation_publication_date" content="2020-05-06" />
+  <meta name="citation_publication_date" content="2020-05-07" />
 
   <meta name="dc.language" content="en-US" />
 
@@ -67,11 +67,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://SharikHR.github.io/review/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://SharikHR.github.io/review/v/d4c1c012859f1a586063feb66470356c7d9702b0/" />
+  <link rel="alternate" type="text/html" href="https://SharikHR.github.io/review/v/c21caeb0e43230c9ed0610789c82747da2a71f0b/" />
 
-  <meta name="manubot_html_url_versioned" content="https://SharikHR.github.io/review/v/d4c1c012859f1a586063feb66470356c7d9702b0/" />
+  <meta name="manubot_html_url_versioned" content="https://SharikHR.github.io/review/v/c21caeb0e43230c9ed0610789c82747da2a71f0b/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://SharikHR.github.io/review/v/d4c1c012859f1a586063feb66470356c7d9702b0/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://SharikHR.github.io/review/v/c21caeb0e43230c9ed0610789c82747da2a71f0b/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -106,10 +106,10 @@ title: 3D tumor spheroids
 
 <small><em>
 This manuscript
-([permalink](https://SharikHR.github.io/review/v/d4c1c012859f1a586063feb66470356c7d9702b0/))
+([permalink](https://SharikHR.github.io/review/v/c21caeb0e43230c9ed0610789c82747da2a71f0b/))
 was automatically generated
-from [SharikHR/review@d4c1c01](https://github.com/SharikHR/review/tree/d4c1c012859f1a586063feb66470356c7d9702b0)
-on May 6, 2020.
+from [SharikHR/review@c21caeb](https://github.com/SharikHR/review/tree/c21caeb0e43230c9ed0610789c82747da2a71f0b)
+on May 7, 2020.
 </em></small>
 
 ## Authors
@@ -151,8 +151,18 @@ Spheroids are three-dimensional spherical cellular aggregates with high cell-den
 
 ## Pancreatic tumor microenvironment
 
-In Pancreatic ductal adenocarcinoma (PDAC), the major components of the tumor microenvironment are a complex population of fibroblasts forming the bulk of the stroma, vasculature, inflammatory and immune cells @doi:10.1002/jcb.21209.
-PDAC is associated with evolving alterations in the tumor microenvironment, including increasing fibrosis and extracellular matrix deposition (desmoplasia). Increasing desmoplasia accompanies progressive disease and creates intratumoral pressure that compresses the vasculature, resulting in limited blood flow to the tumor and consequent hypoxia and low nutrient delivery @doi:10.1158/2159-8290.CD-15-0671.
+In Pancreatic ductal adenocarcinoma (PDA), the major components of the tumor microenvironment are a complex population of fibroblasts forming the bulk of the stroma, vasculature, inflammatory and immune cells @doi:10.1002/jcb.21209.
+PDA is associated with evolving alterations in the tumor microenvironment, including increasing fibrosis and extracellular matrix deposition (desmoplasia). Increasing desmoplasia accompanies progressive disease and creates intratumoral pressure that compresses the vasculature, resulting in limited blood flow to the tumor and consequent hypoxia and low nutrient delivery @doi:10.1158/2159-8290.CD-15-0671.
+
+Interactions between the neoplastic and non-neoplastic cells and cellular matrix have been proposed to stimulate the extensive desmoplastic reaction. Stroma production is promoted by the activation of multiple cell signalling pathways @doi:10.1002/ijc.22178; 10.1002/mc.20827 these signalling cascades lead to secretion of structural matrix components including proteoglycans, collagen and fibronectin and the activation of catalytic enzymes such as proteinases.
+
+Matrix metalloproteinases (MMPs) are a family of zinc-dependent endopeptidases, they are involved in degradation of the extracellular matrix . MMPs support tissue remodeling and stimulate neovascularization and inflammatory response, both in physiological and in pathological conditions, for example, in tumors @doi:10.1006/cbir.2000.0647.
+
+MMP-2, MMP-7, and MMP-9 expressions correlate with various morphological features of the PDAC tumor such as inflammation, necrosis, and formation of the new blood vessels @doi:10.1155/2016/9895721 and their tissue inhibitors (TIMPs) TIMPs 1–3 compared with normal pancreas @doi:10.1158/1078-0432.CCR-1157-03.
+
+Pancreatic stellate cells (PSC) are responsible for desmoplasic generation @doi:10.1111/cas.13847. The activation of PSC from a quiescent to an activated state is an intercellular stimuli from tumor‐stromal interactions. PCS can be transform into myofibroblast‐like cells, which express α‐smooth muscle actin (α‐SMA) as cancer‐associated fibroblasts (CAF) @doi:10.1053/j.gastro.2012.11.037; 10.1053/j.gastro.2010.05.084. 
+
+CAF are important components of tumor stroma and affect cancer growth, survival, metastasis, angiogenesis and resistance to chemotherapy or radiotherapy through various cytokines @doi:10.2217/fon.15.176, and contribute to a diminished immune function @doi:10.3389/fimmu.2019.00847.
 
 
 ## 2D and 3D cell culture
