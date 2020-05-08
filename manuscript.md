@@ -67,11 +67,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://SharikHR.github.io/review/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://SharikHR.github.io/review/v/c2019b4408be1c28a33d8543d1a039d50c1c331d/" />
+  <link rel="alternate" type="text/html" href="https://SharikHR.github.io/review/v/6db4a13c3f88a12dc708711ca8955887e1937f11/" />
 
-  <meta name="manubot_html_url_versioned" content="https://SharikHR.github.io/review/v/c2019b4408be1c28a33d8543d1a039d50c1c331d/" />
+  <meta name="manubot_html_url_versioned" content="https://SharikHR.github.io/review/v/6db4a13c3f88a12dc708711ca8955887e1937f11/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://SharikHR.github.io/review/v/c2019b4408be1c28a33d8543d1a039d50c1c331d/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://SharikHR.github.io/review/v/6db4a13c3f88a12dc708711ca8955887e1937f11/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -106,9 +106,9 @@ title: 3D tumor spheroids
 
 <small><em>
 This manuscript
-([permalink](https://SharikHR.github.io/review/v/c2019b4408be1c28a33d8543d1a039d50c1c331d/))
+([permalink](https://SharikHR.github.io/review/v/6db4a13c3f88a12dc708711ca8955887e1937f11/))
 was automatically generated
-from [SharikHR/review@c2019b4](https://github.com/SharikHR/review/tree/c2019b4408be1c28a33d8543d1a039d50c1c331d)
+from [SharikHR/review@6db4a13](https://github.com/SharikHR/review/tree/6db4a13c3f88a12dc708711ca8955887e1937f11)
 on May 8, 2020.
 </em></small>
 
@@ -154,13 +154,13 @@ Spheroids are three-dimensional spherical cellular aggregates with high cell-den
 In Pancreatic ductal adenocarcinoma (PDA), the major components of the tumor microenvironment are a complex population of fibroblasts forming the bulk of the stroma, vasculature, inflammatory and immune cells @doi:10.1002/jcb.21209.
 PDA is associated with evolving alterations in the tumor microenvironment, including increasing fibrosis and extracellular matrix deposition (desmoplasia). Increasing desmoplasia accompanies progressive disease and creates intratumoral pressure that compresses the vasculature, resulting in limited blood flow to the tumor and consequent hypoxia and low nutrient delivery @doi:10.1158/2159-8290.CD-15-0671.
 
-Interactions between the neoplastic and non-neoplastic cells and cellular matrix have been proposed to stimulate the extensive desmoplastic reaction. Stroma production is promoted by the activation of multiple cell signalling pathways [@doi:10.1002/ijc.22178; 10.1002/mc.20827] these signalling cascades lead to secretion of structural matrix components including proteoglycans, collagen and fibronectin and the activation of catalytic enzymes such as proteinases.
+Interactions between the neoplastic and non-neoplastic cells and cellular matrix have been proposed to stimulate the extensive desmoplastic reaction. Stroma production is promoted by the activation of multiple cell signalling pathways [@doi:10.1002/ijc.22178; @doi:10.1002/mc.20827] these signalling cascades lead to secretion of structural matrix components including proteoglycans, collagen and fibronectin and the activation of catalytic enzymes such as proteinases.
 
 Matrix metalloproteinases (MMPs) are a family of zinc-dependent endopeptidases, they are involved in degradation of the extracellular matrix . MMPs support tissue remodeling and stimulate neovascularization and inflammatory response, both in physiological and in pathological conditions, for example, in tumors @doi:10.1006/cbir.2000.0647.
 
 MMP-2, MMP-7, and MMP-9 expressions correlate with various morphological features of the PDAC tumor such as inflammation, necrosis, and formation of the new blood vessels @doi:10.1155/2016/9895721 and their tissue inhibitors (TIMPs) TIMPs 1–3 compared with normal pancreas @doi:10.1158/1078-0432.CCR-1157-03.
 
-Pancreatic stellate cells (PSC) are responsible for desmoplasic generation @doi:10.1111/cas.13847. The activation of PSC from a quiescent to an activated state is an intercellular stimuli from tumor‐stromal interactions. PCS can be transform into myofibroblast‐like cells, which express α‐smooth muscle actin (α‐SMA) as cancer‐associated fibroblasts (CAF) [@doi:10.1053/j.gastro.2012.11.037; 10.1053/j.gastro.2010.05.084]. 
+Pancreatic stellate cells (PSC) are responsible for desmoplasic generation @doi:10.1111/cas.13847. The activation of PSC from a quiescent to an activated state is an intercellular stimuli from tumor‐stromal interactions. PCS can be transform into myofibroblast‐like cells, which express α‐smooth muscle actin (α‐SMA) as cancer‐associated fibroblasts (CAF) [@doi:10.1053/j.gastro.2012.11.037; @doi:10.1053/j.gastro.2010.05.084]. 
 
 CAF are important components of tumor stroma and affect cancer growth, survival, metastasis, angiogenesis and resistance to chemotherapy or radiotherapy through various cytokines @doi:10.2217/fon.15.176, and contribute to a diminished immune function @doi:10.3389/fimmu.2019.00847.
 
@@ -186,10 +186,10 @@ MCSs are cell aggregates with complex cell-to-cell adhesions and cell-to-matrix 
 
 It has been reported that MCS formation involves three critical steps. In the first stage, dispersed single-cells are drawn closer to form aggregations where ECM fibers act as a long-chain linker through the binding of integrins. This is followed by a period in which cell aggregates pause in compaction, because of the accumulation of sufficient amounts of E-cadherins. Finally, in the third stage, cells are compacted into solid aggregates to form MCSs due to the homophilic cadherin–cadherin binding @doi:10.1007/s00441-005-0148-2.
 
-The formation of MCS process initiates with an spontaneous self-assembly and cell-cell interactions. These interactions are regulated by adhesions proteins such as E-cadherin,  α-catenin and P-cadherin [@doi:10.1242/bio.037051; doi.org/10.1038/s41598-018-19384-0; 10.3892/ijo.31.6.1403]
-Cell-to-matrix interactions is the base for cell building and is influenced by integrins mainly by β1-integrin. The integration of integrin-ECM facilitates the cell aggregation process that connect a cell with its environment in the context of spheroid formation [@doi:10.1007/s00441-005-0148-2; 10.1016/S0002-9440(10)63058-1; 10.1007/s00441-005-0148-2].
+The formation of MCS process initiates with an spontaneous self-assembly and cell-cell interactions. These interactions are regulated by adhesions proteins such as E-cadherin,  α-catenin and P-cadherin [@doi:10.1242/bio.037051; doi.org/10.1038/s41598-018-19384-0; @doi:10.3892/ijo.31.6.1403]
+Cell-to-matrix interactions is the base for cell building and is influenced by integrins mainly by β1-integrin. The integration of integrin-ECM facilitates the cell aggregation process that connect a cell with its environment in the context of spheroid formation [@doi:10.1007/s00441-005-0148-2; @doi:10.1016/S0002-9440(10)63058-1; @doi:10.1007/s00441-005-0148-2].
 
-The cytoskeleton also plays an important role in spheroid formation. During spheroid formation the actin filaments undergo significant changes and the expanded microfilaments as stress fibres become along the cell periphery. In this step, the cytoskeleton is a force generation structure performing a continuos pre-stressed lattice that keeps structural stability [@doi:10.1021/acsbiomaterials.6b00144; 10.1002/1097-0169(200103)48:3<175::AID-CM1007>3.0.CO;2-2]. 
+The cytoskeleton also plays an important role in spheroid formation. During spheroid formation the actin filaments undergo significant changes and the expanded microfilaments as stress fibres become along the cell periphery. In this step, the cytoskeleton is a force generation structure performing a continuos pre-stressed lattice that keeps structural stability [@doi:10.1021/acsbiomaterials.6b00144; @doi:10.1002/1097-0169(200103)48:3<175::AID-CM1007>3.0.CO;2-2]. 
 
 The internal structure of spheroids comprises different cell layers. MCS include hypoxic, proliferative apoptotic/necrotic areas as a consequence of oxygen and nutrient gradients @doi. Small micro-spheroids of <200μm diameter mostly include proliferating and normoxic cells, mimic three-dimensional cell-cell and cell-matrix interactions but they are inappropriate to reflect pathophysiological conditions with hypoxic areas in the spheroid center or to mimic proliferation gradients @doi:10.1039/C8AN01752B. 
 However, spheroids with diameters of approximately 200-300μm results in a typical zonation, with proliferative zones at the surface co-existing with normoxic quiescent zones in the middle and hypoxic zones in the core @doi:10.1038/srep19103. Finally, MCS > 500 μm diameter the formation of necrotic areas is observed  as described in microregion of tumor *in vivo* @doi:10.1016/j.neo.2014.12.004.
