@@ -67,11 +67,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://SharikHR.github.io/review/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://SharikHR.github.io/review/v/6db4a13c3f88a12dc708711ca8955887e1937f11/" />
+  <link rel="alternate" type="text/html" href="https://SharikHR.github.io/review/v/c7d5a813cc17ff1e1dbb2db401ce50703edf4b4a/" />
 
-  <meta name="manubot_html_url_versioned" content="https://SharikHR.github.io/review/v/6db4a13c3f88a12dc708711ca8955887e1937f11/" />
+  <meta name="manubot_html_url_versioned" content="https://SharikHR.github.io/review/v/c7d5a813cc17ff1e1dbb2db401ce50703edf4b4a/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://SharikHR.github.io/review/v/6db4a13c3f88a12dc708711ca8955887e1937f11/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://SharikHR.github.io/review/v/c7d5a813cc17ff1e1dbb2db401ce50703edf4b4a/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -106,9 +106,9 @@ title: 3D tumor spheroids
 
 <small><em>
 This manuscript
-([permalink](https://SharikHR.github.io/review/v/6db4a13c3f88a12dc708711ca8955887e1937f11/))
+([permalink](https://SharikHR.github.io/review/v/c7d5a813cc17ff1e1dbb2db401ce50703edf4b4a/))
 was automatically generated
-from [SharikHR/review@6db4a13](https://github.com/SharikHR/review/tree/6db4a13c3f88a12dc708711ca8955887e1937f11)
+from [SharikHR/review@c7d5a81](https://github.com/SharikHR/review/tree/c7d5a813cc17ff1e1dbb2db401ce50703edf4b4a)
 on May 8, 2020.
 </em></small>
 
@@ -197,6 +197,41 @@ However, spheroids with diameters of approximately 200-300μm results in a typic
 Due to these characteristics, MCS mimic the first avascular stages of tumor formation, and exhibit important tumor aggressiveness features such as enhanced multicellular resistance, migration, and invasion, as well as an enhanced clonogenic capacity @doi:10.3892/or.2015.3767.
 
 ## Methods for the generation of MCS
+
+Many 3D culture techniques are available for the generation of spheroids. These methods prevent cell attachment to the culture substratum, thereby increasing interactions with neighboring cells and extracellular matrix.
+
+Nowadays, there are four major techniques for spheroids formation by avoiding the cells adhesion to the surfaces and favoring the cell–cell interactions and cells self-aggregation.
+
+### The agitation-based approaches.
+
+Agitation-based approaches to culture cells as spheroids include gyratory rotation techniques, such as gyratory shakers, rotary culture systems and stirred suspension culture systems @doi:10.1016/j.semcancer.2005.05.002.
+
+The general principle behind these methods is that a cell suspension is placed into a container and the suspension is kept in motion, that is, either it is gently stirred or the container is rotated. The continuous motion of the suspended cells allows that cells do not adhere to the containers walls, but instead form cell-cell interactions @doi:10.1016/j.drudis.2012.10.003.
+
+Furthermore, batches of 3D spheroids formed in spinner flasks are typically of a broad range of sizes and so would require subsequent manual selection to obtain a group of similarly sized 3D spheroids for analysis @doi:10.1002/biot.200700228. Rotatory culture system function by similar means as the spinner flask but, instead of using a stirring bar to keep cell suspensions in motion, the culture container itself is rotated, enables large-scale production and allows for long-term culture of 3D spheroids [@doi:10.1016/j.drudis.2012.10.003, @doi:10.1038/nrmicro2423]. 
+
+### The hanging drop technique.
+
+The hanging drop technique relies on the formation of spheroids in small drops of culture medium, which are suspended on a glass coverslip. This is a simple method in which cells are placed in hanging drop culture and incubated under physiological conditions until they form 3D spheroids. The method requires no specialized equipment and can be adapted to include addition of any biological agent in very small quantities, can also be used to co-culture two (or more) different cell populations so as to elucidate the role of cell-cell or cell-ECM interactions in specifying spatial relationships between cells @doi:10.3791/2720.
+The hanging drop method generated well-rounded MCTS and represents an attractive alternative for spheroids production, because it is mild, can be applied to a wide variety of cell lines, and can produce spheroids of a homogeneous size without the need for sieving or manual selection @doi:10.1002/bit.10655, for some cell lines spheroid formation occured within 72 hours @doi:10.4172/2168-9431.1000170. This method has also been applied to the co-cultivation of mixed cell populations, including the co-cultivation of endothelial cells and tumor cells as a model of early tumor angiogenesis @doi:10.1007/s10456-004-8911-7.
+Although they have disadvantage as producing variable size spheroids, low throughput, hard to handle, long-term culture, they provide an efficient way to obtain biological insights that are often lost in 2D platforms @doi:10.1039/c0an00609b. 
+
+### Liquid overlay technique.
+
+Liquid overlay technique includes the formation of spheroids by seeding the cells on top of non-adhesive surfaces, is one of the simplest and less expensive approaches for spheroid formation forming spheroids without size or shape limitation @doi:10.1016/j.tibtech.2012.12.003. In short, wells are coated with a non-adherence layer such as agarose or poly-HEMA before adding cell suspension. Besides providing a non-adhesive surface, the agarose-coated wells or ultra-low attachment plates also increase cell-to-cell contact as cells collect on their concave bottoms @doi:10.1038/nprot.2008.226.
+
+The rate of yield for this technique is between 60% and 100% for monoculture spheroids and 100% for co-culture spheroids. The size of the spheroids ccan be adjusted easily and precisely by varying the number of seeded cells organized in one spheroid. The formation of co-culture spheroids consisting of three different cell types is possible with this method [@doi:10.3109/14653249.2011.583233,@doi:10.1002/bit.25210].
+
+### Microfluidics.
+
+Microfluidics has been recently investigated for spheroids formation. Usually, microfluidics are chips composed of microchannels and microchambers, where cells suspended in media circulate and accumulate in the chambers forming the spheroids @doi:10.1016/j.snb.2018.01.223. Microfluidics, as an emerging tool to control the flow within micrometer-scale channels, is capable of manipulating the parameters dynamically and spatially, thus creating unique environments to meet the requirements for MCS formation. In addition, microfluidics can reduce the shear stress in order to minimize cell damage, and micrometer-scale chambers inside the microfluidics can be manipulated to control the size of MCS @doi10.1039/c4an00015c:
+
+The microfluidic devices are designed to enhance the spheroid formation process by: providing size control; allowing rapid aggregation; requiring minimal interaction between the user and the device, and; replacing manual handling with engineered and automated procedures. These important capabilities have been achieved with the aid of transparent and biocompatible materials @doi:10.1016/j.snb.2018.01.223.
+
+The emergence of “tumor-on-chip” technology provides an alternative to study multicellular and tumor microenvironment interactions in vitro. These chip devices have been extensively used to study tumor–stroma interactions, tumor-associated angiogenesis, and, recently, tumor–immune interactions @doi:10.1158/0008-5472.CAN-19-0342.
+
+Microfluidic channels are used to promote the formation of cellular aggregates. This method opens possibilities for the continuous production of highly controlled aggregates. However, this method currently requieres a technological capacity @doi:10.1039/b618439a.
+
 
 
 ## MCS and PDA
