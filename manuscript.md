@@ -67,11 +67,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://SharikHR.github.io/review/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://SharikHR.github.io/review/v/362b46af26884a6d359d5218105dc0b32cb865d8/" />
+  <link rel="alternate" type="text/html" href="https://SharikHR.github.io/review/v/4d5988d8605f85b05497e048d01f4562b7bcf089/" />
 
-  <meta name="manubot_html_url_versioned" content="https://SharikHR.github.io/review/v/362b46af26884a6d359d5218105dc0b32cb865d8/" />
+  <meta name="manubot_html_url_versioned" content="https://SharikHR.github.io/review/v/4d5988d8605f85b05497e048d01f4562b7bcf089/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://SharikHR.github.io/review/v/362b46af26884a6d359d5218105dc0b32cb865d8/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://SharikHR.github.io/review/v/4d5988d8605f85b05497e048d01f4562b7bcf089/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -106,9 +106,9 @@ title: 3D tumor spheroids
 
 <small><em>
 This manuscript
-([permalink](https://SharikHR.github.io/review/v/362b46af26884a6d359d5218105dc0b32cb865d8/))
+([permalink](https://SharikHR.github.io/review/v/4d5988d8605f85b05497e048d01f4562b7bcf089/))
 was automatically generated
-from [SharikHR/review@362b46a](https://github.com/SharikHR/review/tree/362b46af26884a6d359d5218105dc0b32cb865d8)
+from [SharikHR/review@4d5988d](https://github.com/SharikHR/review/tree/4d5988d8605f85b05497e048d01f4562b7bcf089)
 on May 8, 2020.
 </em></small>
 
@@ -137,8 +137,7 @@ on May 8, 2020.
 
 ## Abstract {.page_break_before}
 
-Open collaborative writing with Manubot @doi:10.1371/journal.pcbi.1007128
-
+A hallmark of pancreatic ductal adenocarcionoma (PDA) is a pronounced collagen-rich fibrotic extracellular matrix known as the desmoplastic reaction. The absence of appropriate models capable of reproducing *in vitro* the heterogeneous tumor microenvironment of pancreatic cancer makes its study difficult and conventional culture approaches do not mimic the characteristics of tumors. Multicellular spheroids (MCS) have emerged as a powerful tool to narrow down the gap between the *in vitro* and *in vivo* model. In this review, we discussed the structure and biology of MCS and detailed fabricating methods, as well as the models currently in use for the study of the heterogeneous microenvironment of pancreatic cancer. 
 
 ## Introduction
 
@@ -169,7 +168,7 @@ CAF are important components of tumor stroma and affect cancer growth, survival,
 
 Cell culture is a widely used *in vitro* tool to improve the understanding of cell biology, cellular mechanisms, tissue morphology, drug action, protein production and the development of tissue engineering @doi:10.5114/aoms.2016.63743.
 
-Three-dimensional (3D) cell culture is well documented to regain intrinsic metabolic properties and to better mimic the in vivo situation than two-dimensional (2D) cell culture @doi:10.1073/pnas.1918607117.
+Three-dimensional (3D) cell culture is well documented to regain intrinsic metabolic properties and to better mimic the *in vivo* situation than two-dimensional (2D) cell culture @doi:10.1073/pnas.1918607117.
 
 
 A comparative molecular analyses from 2D and 3D *in vitro* conditions revealed that cancer cell phenotype is highly influenced by its microenvironment.Through the examination of cancer cell transcriptional behavior, cellular processes were closely linked to functions promoted by different culturing conditions. 
