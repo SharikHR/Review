@@ -67,11 +67,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://SharikHR.github.io/review/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://SharikHR.github.io/review/v/c7d5a813cc17ff1e1dbb2db401ce50703edf4b4a/" />
+  <link rel="alternate" type="text/html" href="https://SharikHR.github.io/review/v/362b46af26884a6d359d5218105dc0b32cb865d8/" />
 
-  <meta name="manubot_html_url_versioned" content="https://SharikHR.github.io/review/v/c7d5a813cc17ff1e1dbb2db401ce50703edf4b4a/" />
+  <meta name="manubot_html_url_versioned" content="https://SharikHR.github.io/review/v/362b46af26884a6d359d5218105dc0b32cb865d8/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://SharikHR.github.io/review/v/c7d5a813cc17ff1e1dbb2db401ce50703edf4b4a/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://SharikHR.github.io/review/v/362b46af26884a6d359d5218105dc0b32cb865d8/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -106,9 +106,9 @@ title: 3D tumor spheroids
 
 <small><em>
 This manuscript
-([permalink](https://SharikHR.github.io/review/v/c7d5a813cc17ff1e1dbb2db401ce50703edf4b4a/))
+([permalink](https://SharikHR.github.io/review/v/362b46af26884a6d359d5218105dc0b32cb865d8/))
 was automatically generated
-from [SharikHR/review@c7d5a81](https://github.com/SharikHR/review/tree/c7d5a813cc17ff1e1dbb2db401ce50703edf4b4a)
+from [SharikHR/review@362b46a](https://github.com/SharikHR/review/tree/362b46af26884a6d359d5218105dc0b32cb865d8)
 on May 8, 2020.
 </em></small>
 
@@ -187,11 +187,11 @@ MCSs are cell aggregates with complex cell-to-cell adhesions and cell-to-matrix 
 It has been reported that MCS formation involves three critical steps. In the first stage, dispersed single-cells are drawn closer to form aggregations where ECM fibers act as a long-chain linker through the binding of integrins. This is followed by a period in which cell aggregates pause in compaction, because of the accumulation of sufficient amounts of E-cadherins. Finally, in the third stage, cells are compacted into solid aggregates to form MCSs due to the homophilic cadherin–cadherin binding @doi:10.1007/s00441-005-0148-2.
 
 The formation of MCS process initiates with an spontaneous self-assembly and cell-cell interactions. These interactions are regulated by adhesions proteins such as E-cadherin,  α-catenin and P-cadherin [@doi:10.1242/bio.037051; doi.org/10.1038/s41598-018-19384-0; @doi:10.3892/ijo.31.6.1403]
-Cell-to-matrix interactions is the base for cell building and is influenced by integrins mainly by β1-integrin. The integration of integrin-ECM facilitates the cell aggregation process that connect a cell with its environment in the context of spheroid formation [@doi:10.1007/s00441-005-0148-2; @doi:10.1016/S0002-9440(10)63058-1; @doi:10.1007/s00441-005-0148-2].
+Cell-to-matrix interactions is the base for cell building and is influenced by integrins mainly by β1-integrin. The integration of integrin-ECM facilitates the cell aggregation process that connect a cell with its environment in the context of spheroid formation [@doi:10.1007/s00441-005-0148-2; @doi:10.1016/S0002-9440(10)63058-1].
 
-The cytoskeleton also plays an important role in spheroid formation. During spheroid formation the actin filaments undergo significant changes and the expanded microfilaments as stress fibres become along the cell periphery. In this step, the cytoskeleton is a force generation structure performing a continuos pre-stressed lattice that keeps structural stability [@doi:10.1021/acsbiomaterials.6b00144; @doi:10.1002/1097-0169(200103)48:3<175::AID-CM1007>3.0.CO;2-2]. 
+The cytoskeleton also plays an important role in spheroid formation. During spheroid formation the actin filaments undergo significant changes and the expanded microfilaments as stress fibres become along the cell periphery. In this step, the cytoskeleton is a force generation structure performing a continuos pre-stressed lattice that keeps structural stability [@doi:10.1021/acsbiomaterials.6b00144; @pmid:11223949]. 
 
-The internal structure of spheroids comprises different cell layers. MCS include hypoxic, proliferative apoptotic/necrotic areas as a consequence of oxygen and nutrient gradients @doi. Small micro-spheroids of <200μm diameter mostly include proliferating and normoxic cells, mimic three-dimensional cell-cell and cell-matrix interactions but they are inappropriate to reflect pathophysiological conditions with hypoxic areas in the spheroid center or to mimic proliferation gradients @doi:10.1039/C8AN01752B. 
+The internal structure of spheroids comprises different cell layers. MCS include hypoxic, proliferative apoptotic/necrotic areas as a consequence of oxygen and nutrient gradients. Small micro-spheroids of <200μm diameter mostly include proliferating and normoxic cells, mimic three-dimensional cell-cell and cell-matrix interactions but they are inappropriate to reflect pathophysiological conditions with hypoxic areas in the spheroid center or to mimic proliferation gradients @doi:10.1039/C8AN01752B. 
 However, spheroids with diameters of approximately 200-300μm results in a typical zonation, with proliferative zones at the surface co-existing with normoxic quiescent zones in the middle and hypoxic zones in the core @doi:10.1038/srep19103. Finally, MCS > 500 μm diameter the formation of necrotic areas is observed  as described in microregion of tumor *in vivo* @doi:10.1016/j.neo.2014.12.004.
 
 Due to these characteristics, MCS mimic the first avascular stages of tumor formation, and exhibit important tumor aggressiveness features such as enhanced multicellular resistance, migration, and invasion, as well as an enhanced clonogenic capacity @doi:10.3892/or.2015.3767.
@@ -224,7 +224,7 @@ The rate of yield for this technique is between 60% and 100% for monoculture sph
 
 ### Microfluidics.
 
-Microfluidics has been recently investigated for spheroids formation. Usually, microfluidics are chips composed of microchannels and microchambers, where cells suspended in media circulate and accumulate in the chambers forming the spheroids @doi:10.1016/j.snb.2018.01.223. Microfluidics, as an emerging tool to control the flow within micrometer-scale channels, is capable of manipulating the parameters dynamically and spatially, thus creating unique environments to meet the requirements for MCS formation. In addition, microfluidics can reduce the shear stress in order to minimize cell damage, and micrometer-scale chambers inside the microfluidics can be manipulated to control the size of MCS @doi10.1039/c4an00015c:
+Microfluidics has been recently investigated for spheroids formation. Usually, microfluidics are chips composed of microchannels and microchambers, where cells suspended in media circulate and accumulate in the chambers forming the spheroids @doi:10.1016/j.snb.2018.01.223. Microfluidics, as an emerging tool to control the flow within micrometer-scale channels, is capable of manipulating the parameters dynamically and spatially, thus creating unique environments to meet the requirements for MCS formation. In addition, microfluidics can reduce the shear stress in order to minimize cell damage, and micrometer-scale chambers inside the microfluidics can be manipulated to control the size of MCS @doi10.1039/c4an00015c.
 
 The microfluidic devices are designed to enhance the spheroid formation process by: providing size control; allowing rapid aggregation; requiring minimal interaction between the user and the device, and; replacing manual handling with engineered and automated procedures. These important capabilities have been achieved with the aid of transparent and biocompatible materials @doi:10.1016/j.snb.2018.01.223.
 
