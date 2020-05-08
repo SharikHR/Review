@@ -4,7 +4,7 @@ author-meta:
 - null
 bibliography:
 - content/manual-references.json
-date-meta: '2020-05-07'
+date-meta: '2020-05-08'
 header-includes: '<!--
 
   Manubot generated metadata rendered from header-includes-template.html.
@@ -23,9 +23,9 @@ header-includes: '<!--
 
   <meta property="twitter:title" content="3D tumor spheroids" />
 
-  <meta name="dc.date" content="2020-05-07" />
+  <meta name="dc.date" content="2020-05-08" />
 
-  <meta name="citation_publication_date" content="2020-05-07" />
+  <meta name="citation_publication_date" content="2020-05-08" />
 
   <meta name="dc.language" content="en-US" />
 
@@ -67,11 +67,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://SharikHR.github.io/review/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://SharikHR.github.io/review/v/0d431e725414bdc310f7c76b6d0e8e7b8cab47c3/" />
+  <link rel="alternate" type="text/html" href="https://SharikHR.github.io/review/v/c2019b4408be1c28a33d8543d1a039d50c1c331d/" />
 
-  <meta name="manubot_html_url_versioned" content="https://SharikHR.github.io/review/v/0d431e725414bdc310f7c76b6d0e8e7b8cab47c3/" />
+  <meta name="manubot_html_url_versioned" content="https://SharikHR.github.io/review/v/c2019b4408be1c28a33d8543d1a039d50c1c331d/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://SharikHR.github.io/review/v/0d431e725414bdc310f7c76b6d0e8e7b8cab47c3/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://SharikHR.github.io/review/v/c2019b4408be1c28a33d8543d1a039d50c1c331d/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -106,10 +106,10 @@ title: 3D tumor spheroids
 
 <small><em>
 This manuscript
-([permalink](https://SharikHR.github.io/review/v/0d431e725414bdc310f7c76b6d0e8e7b8cab47c3/))
+([permalink](https://SharikHR.github.io/review/v/c2019b4408be1c28a33d8543d1a039d50c1c331d/))
 was automatically generated
-from [SharikHR/review@0d431e7](https://github.com/SharikHR/review/tree/0d431e725414bdc310f7c76b6d0e8e7b8cab47c3)
-on May 7, 2020.
+from [SharikHR/review@c2019b4](https://github.com/SharikHR/review/tree/c2019b4408be1c28a33d8543d1a039d50c1c331d)
+on May 8, 2020.
 </em></small>
 
 ## Authors
@@ -182,6 +182,19 @@ Alterations in cancer cell behavior under different growth conditions underlie t
 
 ## The structure of multicellular spheroids.
 
+MCSs are cell aggregates with complex cell-to-cell adhesions and cell-to-matrix interactions, which results in gradient generation for nutrients, gases, growth factors and signal factors @doi:10.1098/rsif.2016.0877.
+
+It has been reported that MCS formation involves three critical steps. In the first stage, dispersed single-cells are drawn closer to form aggregations where ECM fibers act as a long-chain linker through the binding of integrins. This is followed by a period in which cell aggregates pause in compaction, because of the accumulation of sufficient amounts of E-cadherins. Finally, in the third stage, cells are compacted into solid aggregates to form MCSs due to the homophilic cadherin–cadherin binding @doi:10.1007/s00441-005-0148-2.
+
+The formation of MCS process initiates with an spontaneous self-assembly and cell-cell interactions. These interactions are regulated by adhesions proteins such as E-cadherin,  α-catenin and P-cadherin [@doi:10.1242/bio.037051; doi.org/10.1038/s41598-018-19384-0; 10.3892/ijo.31.6.1403]
+Cell-to-matrix interactions is the base for cell building and is influenced by integrins mainly by β1-integrin. The integration of integrin-ECM facilitates the cell aggregation process that connect a cell with its environment in the context of spheroid formation [@doi:10.1007/s00441-005-0148-2; 10.1016/S0002-9440(10)63058-1; 10.1007/s00441-005-0148-2].
+
+The cytoskeleton also plays an important role in spheroid formation. During spheroid formation the actin filaments undergo significant changes and the expanded microfilaments as stress fibres become along the cell periphery. In this step, the cytoskeleton is a force generation structure performing a continuos pre-stressed lattice that keeps structural stability [@doi:10.1021/acsbiomaterials.6b00144; 10.1002/1097-0169(200103)48:3<175::AID-CM1007>3.0.CO;2-2]. 
+
+The internal structure of spheroids comprises different cell layers. MCS include hypoxic, proliferative apoptotic/necrotic areas as a consequence of oxygen and nutrient gradients @doi. Small micro-spheroids of <200μm diameter mostly include proliferating and normoxic cells, mimic three-dimensional cell-cell and cell-matrix interactions but they are inappropriate to reflect pathophysiological conditions with hypoxic areas in the spheroid center or to mimic proliferation gradients @doi:10.1039/C8AN01752B. 
+However, spheroids with diameters of approximately 200-300μm results in a typical zonation, with proliferative zones at the surface co-existing with normoxic quiescent zones in the middle and hypoxic zones in the core @doi:10.1038/srep19103. Finally, MCS > 500 μm diameter the formation of necrotic areas is observed  as described in microregion of tumor *in vivo* @doi:10.1016/j.neo.2014.12.004.
+
+Due to these characteristics, MCS mimic the first avascular stages of tumor formation, and exhibit important tumor aggressiveness features such as enhanced multicellular resistance, migration, and invasion, as well as an enhanced clonogenic capacity @doi:10.3892/or.2015.3767.
 
 ## Methods for the generation of MCS
 
