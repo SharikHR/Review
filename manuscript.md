@@ -67,11 +67,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://SharikHR.github.io/review/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://SharikHR.github.io/review/v/ef97f9a47a121a79ab11e573f0249893e38482ec/" />
+  <link rel="alternate" type="text/html" href="https://SharikHR.github.io/review/v/e040faca108e3d8d08653d7047717dd1aa201d82/" />
 
-  <meta name="manubot_html_url_versioned" content="https://SharikHR.github.io/review/v/ef97f9a47a121a79ab11e573f0249893e38482ec/" />
+  <meta name="manubot_html_url_versioned" content="https://SharikHR.github.io/review/v/e040faca108e3d8d08653d7047717dd1aa201d82/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://SharikHR.github.io/review/v/ef97f9a47a121a79ab11e573f0249893e38482ec/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://SharikHR.github.io/review/v/e040faca108e3d8d08653d7047717dd1aa201d82/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -106,9 +106,9 @@ title: 3D tumor spheroids
 
 <small><em>
 This manuscript
-([permalink](https://SharikHR.github.io/review/v/ef97f9a47a121a79ab11e573f0249893e38482ec/))
+([permalink](https://SharikHR.github.io/review/v/e040faca108e3d8d08653d7047717dd1aa201d82/))
 was automatically generated
-from [SharikHR/review@ef97f9a](https://github.com/SharikHR/review/tree/ef97f9a47a121a79ab11e573f0249893e38482ec)
+from [SharikHR/review@e040fac](https://github.com/SharikHR/review/tree/e040faca108e3d8d08653d7047717dd1aa201d82)
 on May 10, 2020.
 </em></small>
 
@@ -141,11 +141,16 @@ A hallmark of pancreatic ductal adenocarcionoma (PDA) is a pronounced collagen-r
 
 ## Introduction
 
-PDAC belongs to the top five of cancer-related deaths in the world and the poor prognosis is primarily due to its advanced stage at diagnosis , the progress in its treatment remains too slow as a consequence of the complex physiopathology of this tumor characterized by a heterogeneous cellular composition and the accumulation of a very dense fibrotic tissue @doi:
+PDA belongs to the top five of cancer-related deaths in the world and the poor prognosis is primarily due to its advanced stage at diagnosis , the progress in its treatment remains too slow as a consequence of the complex physiopathology of this tumor characterized by a heterogeneous cellular composition and the accumulation of a very dense fibrotic tissue @doi:10.1158/1078-0432.CCR-11-3114.
 Due to that pancreatic cancer is a heterogeneous disease, is often modelled using established cell lines in the laboratory.
 
-In recent years, three-dimensional (3D) culture systems have gained increasing recognition as an effective tool for biological research. One widely used 3D culturing technique is the application of multicellular spheroids (MCS).Cells cultured in 3D more closely mimic the physiological environment compared to conventional monolayer culture systems.
-Spheroids are three-dimensional spherical cellular aggregates with high cell-density, that more closely simulate conditions existing in solid tumors where hypoxia and alterations related to intracellular metabolism occur due to poor availability of nutrients from blood vessels @doi:10.1371/journal.pone.0177737.
+Two dimensional (2D) monocultures of isolated cancer cells do not show any structural architecture and lack the complex physiology and the microenvironment of real tumor tissues such as fibroblasts, macrophages, endothelial cells, immune cells which are embedded in an extracellular matrix (ECM) @doi:10.1186/s13058-016-0740-2. Gene expression and signalling pathways are altered during monolayer conditions when compared to cells grown in the native tumor tissue [@doi:10.1186/s12885-018-4145-8; @doi:10.3892/or.2016.4581]. Moreover, when cells are 
+growing in monolayer they do not replicate cell-to-cell and cell-to-ECM interactions, and the oxygen and pH gradients @doi:10.3390/ijms16035517.
+However, there is an urgent need to make the use of models capable of closely mimicking the heterogeneity and the microenvironment of the in vivo conditions.
+
+In recent years, three-dimensional (3D) culture systems have gained increasing recognition as an effective tool for biological research. One widely used 3D culturing technique is the application of multicellular spheroids (MCS).Cells cultured in 3D more closely mimic the physiological environment compared to conventional monolayer culture systems. Spheroids are three-dimensional spherical cellular aggregates with high cell-density, that more closely simulate conditions existing in solid tumors where hypoxia and alterations related to intracellular metabolism occur due to poor availability of nutrients from blood vessels @doi:10.1371/journal.pone.0177737.
+
+Aiming to face this issue, this review will provide an overview of the application of multicellular spheroids, the widest employed 3D tumor model so far, for the evaluation of cancer. Finally, relevant examples of models in which MCS have been included in pancreatic cancer research are described.
 
 
 ## Pancreatic tumor microenvironment
