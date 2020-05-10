@@ -4,7 +4,7 @@ author-meta:
 - null
 bibliography:
 - content/manual-references.json
-date-meta: '2020-05-08'
+date-meta: '2020-05-10'
 header-includes: '<!--
 
   Manubot generated metadata rendered from header-includes-template.html.
@@ -23,9 +23,9 @@ header-includes: '<!--
 
   <meta property="twitter:title" content="3D tumor spheroids" />
 
-  <meta name="dc.date" content="2020-05-08" />
+  <meta name="dc.date" content="2020-05-10" />
 
-  <meta name="citation_publication_date" content="2020-05-08" />
+  <meta name="citation_publication_date" content="2020-05-10" />
 
   <meta name="dc.language" content="en-US" />
 
@@ -67,11 +67,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://SharikHR.github.io/review/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://SharikHR.github.io/review/v/4d5988d8605f85b05497e048d01f4562b7bcf089/" />
+  <link rel="alternate" type="text/html" href="https://SharikHR.github.io/review/v/ef97f9a47a121a79ab11e573f0249893e38482ec/" />
 
-  <meta name="manubot_html_url_versioned" content="https://SharikHR.github.io/review/v/4d5988d8605f85b05497e048d01f4562b7bcf089/" />
+  <meta name="manubot_html_url_versioned" content="https://SharikHR.github.io/review/v/ef97f9a47a121a79ab11e573f0249893e38482ec/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://SharikHR.github.io/review/v/4d5988d8605f85b05497e048d01f4562b7bcf089/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://SharikHR.github.io/review/v/ef97f9a47a121a79ab11e573f0249893e38482ec/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -106,10 +106,10 @@ title: 3D tumor spheroids
 
 <small><em>
 This manuscript
-([permalink](https://SharikHR.github.io/review/v/4d5988d8605f85b05497e048d01f4562b7bcf089/))
+([permalink](https://SharikHR.github.io/review/v/ef97f9a47a121a79ab11e573f0249893e38482ec/))
 was automatically generated
-from [SharikHR/review@4d5988d](https://github.com/SharikHR/review/tree/4d5988d8605f85b05497e048d01f4562b7bcf089)
-on May 8, 2020.
+from [SharikHR/review@ef97f9a](https://github.com/SharikHR/review/tree/ef97f9a47a121a79ab11e573f0249893e38482ec)
+on May 10, 2020.
 </em></small>
 
 ## Authors
@@ -238,15 +238,17 @@ Due to that pancreatic cancer is a heterogeneous disease researchers have been d
 
 Several methods to create 3D tumors *in vitro* have been proposed, with hanging drop technique being the simplest and most frequently used. However, in many cell lines this method has failed to form the desired 3D tumor structures. 
 
-A modified hanging drop method for 3D spheroid formation  facilitated with methylcellulose yield a straightforward production of spheroids in PDAC cells and form well-rounded spheroids after 5 days in hanging drops. These spheroidshave have high tolerance to mechanical force, thus enabling standard manipulations and display some hallmarks of solid tumors, such as hypoxic zone, proliferating cells, and apoptotic regions @doi:10.1089/ten.tec.2015.0280.
+A modified hanging drop method for 3D spheroid formation  facilitated with methylcellulose yield a straightforward production of spheroids in PDA cells and form well-rounded spheroids after 5 days in hanging drops. These spheroidshave have high tolerance to mechanical force, thus enabling standard manipulations and display some hallmarks of solid tumors, such as hypoxic zone, proliferating cells, and apoptotic regions @doi:10.1089/ten.tec.2015.0280.
 
-3D pancreatic cancer spheroids, based on pancreatic cancer cells and fibroblast co-culture demonstrate innate desmoplastic properties and stay poorly permeable with relevant diffusion barrier function. 
-Spheroid-based xenografts produced different extracellular matrix (ECM) components with uniformity in terms of ECM architecture recapitulating clinical PDAC tumors. Moreover, establishment of tumors by transplantation of spheroids demonstrate higher expression of pro-fibrotic and pro-survival PDAC hallmarks @doi:10.1016/j.tranon.2018.10.003. 
+3D pancreatic cancer spheroids, based on pancreatic cancer cells and fibroblast co-culture demonstrate innate desmoplastic properties and stay poorly permeable with relevant diffusion barrier function @doi:10.1016/j.tranon.2018.10.003. Moreover,spheroids derived from pancreatic cancer cell lines cultivated with fibroblast-conditioned medium also mimic growth pattern of circulating tumor cell clusters and macrometastases @doi:10.1007/s00432-017-2434-2. Spheroid-based xenografts produced different extracellular matrix (ECM) components with uniformity in terms of ECM architecture recapitulating clinical PDA tumors. Moreover, establishment of tumors by transplantation of spheroids demonstrate higher expression of pro-fibrotic and pro-survival PDA hallmarks @doi:10.1016/j.tranon.2018.10.003. 
 
 In the last years the characterization of a novel 3D tumor model has been in full swing.
 A triple co-culture of pancreatic cancer cells (PANC-1), fibroblasts (MRC-5) and endothelial cells (HUVEC) to form a heterotype multicellular tumor spheroid (MCTS). The integration of the three cell types enable the presence of a core rich in fibroblasts and fibronectin in which endothelial cells are homogeneously distributed @doi:10.1016/j.actbio.2018.08.008.
 
-A microchannel model allow to develop a 3D pancreatic tumor in *vitro* by co-culturing pancreatic tumor spheroids with PSC in a collagen matrix. Under these conditions spheroids and PSCs are mutually activated when co-cultured. Under co-culture condition, tumor spheroids acquire a migratory phenotype with cancer cell-cell interactions, cell-ECM interactions, and cancer cell-PSC interactions @doi:10.1186/s13046-017-0654-6.
+A microchannel model allow to develop a 3D pancreatic tumor in *vitro* by co-culturing pancreatic tumor spheroids with PSC in a collagen matrix. Under these conditions spheroids and PSCs are mutually activated when co-cultured. Under co-culture condition, tumor spheroids acquire a migratory phenotype with cancer cell-cell interactions, cell-ECM interactions, and cancer cell-PSC interactions @doi:10.1186/s13046-017-0654-6. Additionally, a humanized PDAC model in microfluidic device has been developed that incorporates the *in vivo* complexities of multicellularity, ECM components, and a rationally-defined 3D microarchitecture. This humanized PDA model monitors the interactions between primary PSCs (from patients with PDA), cancer cells (PANC-1), and ECM components (neonatal human dermal fibroblasts) within the PDAC microenvironment @doi:10.1039/c3lc50487e.
+
+
+
 
 ## References {.page_break_before}
 
