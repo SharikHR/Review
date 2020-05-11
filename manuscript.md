@@ -67,11 +67,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://SharikHR.github.io/review/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://SharikHR.github.io/review/v/b843cbbe971721fec6ac4bb171769bfbbba0cc9a/" />
+  <link rel="alternate" type="text/html" href="https://SharikHR.github.io/review/v/db7e4934e2dc9444516b0ddf8463909b581437db/" />
 
-  <meta name="manubot_html_url_versioned" content="https://SharikHR.github.io/review/v/b843cbbe971721fec6ac4bb171769bfbbba0cc9a/" />
+  <meta name="manubot_html_url_versioned" content="https://SharikHR.github.io/review/v/db7e4934e2dc9444516b0ddf8463909b581437db/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://SharikHR.github.io/review/v/b843cbbe971721fec6ac4bb171769bfbbba0cc9a/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://SharikHR.github.io/review/v/db7e4934e2dc9444516b0ddf8463909b581437db/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -106,9 +106,9 @@ title: 3D tumor spheroids
 
 <small><em>
 This manuscript
-([permalink](https://SharikHR.github.io/review/v/b843cbbe971721fec6ac4bb171769bfbbba0cc9a/))
+([permalink](https://SharikHR.github.io/review/v/db7e4934e2dc9444516b0ddf8463909b581437db/))
 was automatically generated
-from [SharikHR/review@b843cbb](https://github.com/SharikHR/review/tree/b843cbbe971721fec6ac4bb171769bfbbba0cc9a)
+from [SharikHR/review@db7e493](https://github.com/SharikHR/review/tree/db7e4934e2dc9444516b0ddf8463909b581437db)
 on May 11, 2020.
 </em></small>
 
@@ -217,7 +217,7 @@ Furthermore, batches of 3D spheroids formed in spinner flasks are typically of a
 ### The hanging drop technique.
 
 The hanging drop technique relies on the formation of spheroids in small drops of culture medium, which are suspended on a glass coverslip. This is a simple method in which cells are placed in hanging drop culture and incubated under physiological conditions until they form 3D spheroids. The method requires no specialized equipment and can be adapted to include addition of any biological agent in very small quantities, can also be used to co-culture two (or more) different cell populations so as to elucidate the role of cell-cell or cell-ECM interactions in specifying spatial relationships between cells @doi:10.3791/2720.
-The hanging drop method generated well-rounded MCTS and represents an attractive alternative for spheroids production, because it is mild, can be applied to a wide variety of cell lines, and can produce spheroids of a homogeneous size without the need for sieving or manual selection @doi:10.1002/bit.10655, for some cell lines spheroid formation occured within 72 hours @doi:10.4172/2168-9431.1000170. This method has also been applied to the co-cultivation of mixed cell populations, including the co-cultivation of endothelial cells and tumor cells as a model of early tumor angiogenesis @doi:10.1007/s10456-004-8911-7.
+The hanging drop method generated well-rounded MCS and represents an attractive alternative for spheroids production, because it is mild, can be applied to a wide variety of cell lines, and can produce spheroids of a homogeneous size without the need for sieving or manual selection @doi:10.1002/bit.10655, for some cell lines spheroid formation occured within 72 hours @doi:10.4172/2168-9431.1000170. This method has also been applied to the co-cultivation of mixed cell populations, including the co-cultivation of endothelial cells and tumor cells as a model of early tumor angiogenesis @doi:10.1007/s10456-004-8911-7.
 Although they have disadvantage as producing variable size spheroids, low throughput, hard to handle, long-term culture, they provide an efficient way to obtain biological insights that are often lost in 2D platforms @doi:10.1039/c0an00609b. 
 
 ### Liquid overlay technique.
@@ -248,7 +248,7 @@ A modified hanging drop method for 3D spheroid formation  facilitated with methy
 3D pancreatic cancer spheroids, based on pancreatic cancer cells and fibroblast co-culture demonstrate innate desmoplastic properties and stay poorly permeable with relevant diffusion barrier function @doi:10.1016/j.tranon.2018.10.003. Moreover,spheroids derived from pancreatic cancer cell lines cultivated with fibroblast-conditioned medium also mimic growth pattern of circulating tumor cell clusters and macrometastases @doi:10.1007/s00432-017-2434-2. Spheroid-based xenografts produced different extracellular matrix (ECM) components with uniformity in terms of ECM architecture recapitulating clinical PDA tumors. Moreover, establishment of tumors by transplantation of spheroids demonstrate higher expression of pro-fibrotic and pro-survival PDA hallmarks @doi:10.1016/j.tranon.2018.10.003. 
 
 In the last years the characterization of a novel 3D tumor model has been in full swing.
-A triple co-culture of pancreatic cancer cells (PANC-1), fibroblasts (MRC-5) and endothelial cells (HUVEC) to form a heterotype multicellular tumor spheroid (MCTS). The integration of the three cell types enable the presence of a core rich in fibroblasts and fibronectin in which endothelial cells are homogeneously distributed @doi:10.1016/j.actbio.2018.08.008.
+A triple co-culture of pancreatic cancer cells (PANC-1), fibroblasts (MRC-5) and endothelial cells (HUVEC) to form a heterotype multicellular spheroid. The integration of the three cell types enable the presence of a core rich in fibroblasts and fibronectin in which endothelial cells are homogeneously distributed @doi:10.1016/j.actbio.2018.08.008.
 
 A microchannel model allow to develop a 3D pancreatic tumor in *vitro* by co-culturing pancreatic tumor spheroids with PSC in a collagen matrix. Under these conditions spheroids and PSCs are mutually activated when co-cultured. Under co-culture condition, tumor spheroids acquire a migratory phenotype with cancer cell-cell interactions, cell-ECM interactions, and cancer cell-PSC interactions @doi:10.1186/s13046-017-0654-6. Additionally, a humanized PDA model in microfluidic device has been developed that incorporates the *in vivo* complexities of multicellularity, ECM components, and a rationally-defined 3D microarchitecture. This humanized PDA model monitors the interactions between primary PSCs (from patients with PDA), cancer cells (PANC-1), and ECM components (neonatal human dermal fibroblasts) within the PDA microenvironment @doi:10.1039/c3lc50487e.
 
