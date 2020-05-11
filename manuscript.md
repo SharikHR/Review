@@ -4,7 +4,7 @@ author-meta:
 - null
 bibliography:
 - content/manual-references.json
-date-meta: '2020-05-10'
+date-meta: '2020-05-11'
 header-includes: '<!--
 
   Manubot generated metadata rendered from header-includes-template.html.
@@ -23,9 +23,9 @@ header-includes: '<!--
 
   <meta property="twitter:title" content="3D tumor spheroids" />
 
-  <meta name="dc.date" content="2020-05-10" />
+  <meta name="dc.date" content="2020-05-11" />
 
-  <meta name="citation_publication_date" content="2020-05-10" />
+  <meta name="citation_publication_date" content="2020-05-11" />
 
   <meta name="dc.language" content="en-US" />
 
@@ -67,11 +67,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://SharikHR.github.io/review/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://SharikHR.github.io/review/v/e040faca108e3d8d08653d7047717dd1aa201d82/" />
+  <link rel="alternate" type="text/html" href="https://SharikHR.github.io/review/v/b843cbbe971721fec6ac4bb171769bfbbba0cc9a/" />
 
-  <meta name="manubot_html_url_versioned" content="https://SharikHR.github.io/review/v/e040faca108e3d8d08653d7047717dd1aa201d82/" />
+  <meta name="manubot_html_url_versioned" content="https://SharikHR.github.io/review/v/b843cbbe971721fec6ac4bb171769bfbbba0cc9a/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://SharikHR.github.io/review/v/e040faca108e3d8d08653d7047717dd1aa201d82/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://SharikHR.github.io/review/v/b843cbbe971721fec6ac4bb171769bfbbba0cc9a/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -106,10 +106,10 @@ title: 3D tumor spheroids
 
 <small><em>
 This manuscript
-([permalink](https://SharikHR.github.io/review/v/e040faca108e3d8d08653d7047717dd1aa201d82/))
+([permalink](https://SharikHR.github.io/review/v/b843cbbe971721fec6ac4bb171769bfbbba0cc9a/))
 was automatically generated
-from [SharikHR/review@e040fac](https://github.com/SharikHR/review/tree/e040faca108e3d8d08653d7047717dd1aa201d82)
-on May 10, 2020.
+from [SharikHR/review@b843cbb](https://github.com/SharikHR/review/tree/b843cbbe971721fec6ac4bb171769bfbbba0cc9a)
+on May 11, 2020.
 </em></small>
 
 ## Authors
@@ -250,7 +250,7 @@ A modified hanging drop method for 3D spheroid formation  facilitated with methy
 In the last years the characterization of a novel 3D tumor model has been in full swing.
 A triple co-culture of pancreatic cancer cells (PANC-1), fibroblasts (MRC-5) and endothelial cells (HUVEC) to form a heterotype multicellular tumor spheroid (MCTS). The integration of the three cell types enable the presence of a core rich in fibroblasts and fibronectin in which endothelial cells are homogeneously distributed @doi:10.1016/j.actbio.2018.08.008.
 
-A microchannel model allow to develop a 3D pancreatic tumor in *vitro* by co-culturing pancreatic tumor spheroids with PSC in a collagen matrix. Under these conditions spheroids and PSCs are mutually activated when co-cultured. Under co-culture condition, tumor spheroids acquire a migratory phenotype with cancer cell-cell interactions, cell-ECM interactions, and cancer cell-PSC interactions @doi:10.1186/s13046-017-0654-6. Additionally, a humanized PDAC model in microfluidic device has been developed that incorporates the *in vivo* complexities of multicellularity, ECM components, and a rationally-defined 3D microarchitecture. This humanized PDA model monitors the interactions between primary PSCs (from patients with PDA), cancer cells (PANC-1), and ECM components (neonatal human dermal fibroblasts) within the PDAC microenvironment @doi:10.1039/c3lc50487e.
+A microchannel model allow to develop a 3D pancreatic tumor in *vitro* by co-culturing pancreatic tumor spheroids with PSC in a collagen matrix. Under these conditions spheroids and PSCs are mutually activated when co-cultured. Under co-culture condition, tumor spheroids acquire a migratory phenotype with cancer cell-cell interactions, cell-ECM interactions, and cancer cell-PSC interactions @doi:10.1186/s13046-017-0654-6. Additionally, a humanized PDA model in microfluidic device has been developed that incorporates the *in vivo* complexities of multicellularity, ECM components, and a rationally-defined 3D microarchitecture. This humanized PDA model monitors the interactions between primary PSCs (from patients with PDA), cancer cells (PANC-1), and ECM components (neonatal human dermal fibroblasts) within the PDA microenvironment @doi:10.1039/c3lc50487e.
 
 
 
