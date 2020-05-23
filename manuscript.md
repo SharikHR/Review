@@ -4,7 +4,7 @@ author-meta:
 - null
 bibliography:
 - content/manual-references.json
-date-meta: '2020-05-11'
+date-meta: '2020-05-23'
 header-includes: '<!--
 
   Manubot generated metadata rendered from header-includes-template.html.
@@ -23,9 +23,9 @@ header-includes: '<!--
 
   <meta property="twitter:title" content="3D tumor spheroids" />
 
-  <meta name="dc.date" content="2020-05-11" />
+  <meta name="dc.date" content="2020-05-23" />
 
-  <meta name="citation_publication_date" content="2020-05-11" />
+  <meta name="citation_publication_date" content="2020-05-23" />
 
   <meta name="dc.language" content="en-US" />
 
@@ -67,11 +67,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://SharikHR.github.io/review/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://SharikHR.github.io/review/v/db7e4934e2dc9444516b0ddf8463909b581437db/" />
+  <link rel="alternate" type="text/html" href="https://SharikHR.github.io/review/v/db4a440f6a38f984274faa8256b1403c6b616cbf/" />
 
-  <meta name="manubot_html_url_versioned" content="https://SharikHR.github.io/review/v/db7e4934e2dc9444516b0ddf8463909b581437db/" />
+  <meta name="manubot_html_url_versioned" content="https://SharikHR.github.io/review/v/db4a440f6a38f984274faa8256b1403c6b616cbf/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://SharikHR.github.io/review/v/db7e4934e2dc9444516b0ddf8463909b581437db/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://SharikHR.github.io/review/v/db4a440f6a38f984274faa8256b1403c6b616cbf/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -106,10 +106,10 @@ title: 3D tumor spheroids
 
 <small><em>
 This manuscript
-([permalink](https://SharikHR.github.io/review/v/db7e4934e2dc9444516b0ddf8463909b581437db/))
+([permalink](https://SharikHR.github.io/review/v/db4a440f6a38f984274faa8256b1403c6b616cbf/))
 was automatically generated
-from [SharikHR/review@db7e493](https://github.com/SharikHR/review/tree/db7e4934e2dc9444516b0ddf8463909b581437db)
-on May 11, 2020.
+from [SharikHR/review@db4a440](https://github.com/SharikHR/review/tree/db4a440f6a38f984274faa8256b1403c6b616cbf)
+on May 23, 2020.
 </em></small>
 
 ## Authors
