@@ -4,7 +4,7 @@ author-meta:
 - null
 bibliography:
 - content/manual-references.json
-date-meta: '2020-05-23'
+date-meta: '2020-05-27'
 header-includes: '<!--
 
   Manubot generated metadata rendered from header-includes-template.html.
@@ -23,9 +23,9 @@ header-includes: '<!--
 
   <meta property="twitter:title" content="3D tumor spheroids" />
 
-  <meta name="dc.date" content="2020-05-23" />
+  <meta name="dc.date" content="2020-05-27" />
 
-  <meta name="citation_publication_date" content="2020-05-23" />
+  <meta name="citation_publication_date" content="2020-05-27" />
 
   <meta name="dc.language" content="en-US" />
 
@@ -67,11 +67,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://SharikHR.github.io/review/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://SharikHR.github.io/review/v/db4a440f6a38f984274faa8256b1403c6b616cbf/" />
+  <link rel="alternate" type="text/html" href="https://SharikHR.github.io/review/v/bc30b606761cd14682934a74b1c6218d8989ec6f/" />
 
-  <meta name="manubot_html_url_versioned" content="https://SharikHR.github.io/review/v/db4a440f6a38f984274faa8256b1403c6b616cbf/" />
+  <meta name="manubot_html_url_versioned" content="https://SharikHR.github.io/review/v/bc30b606761cd14682934a74b1c6218d8989ec6f/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://SharikHR.github.io/review/v/db4a440f6a38f984274faa8256b1403c6b616cbf/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://SharikHR.github.io/review/v/bc30b606761cd14682934a74b1c6218d8989ec6f/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -106,10 +106,10 @@ title: 3D tumor spheroids
 
 <small><em>
 This manuscript
-([permalink](https://SharikHR.github.io/review/v/db4a440f6a38f984274faa8256b1403c6b616cbf/))
+([permalink](https://SharikHR.github.io/review/v/bc30b606761cd14682934a74b1c6218d8989ec6f/))
 was automatically generated
-from [SharikHR/review@db4a440](https://github.com/SharikHR/review/tree/db4a440f6a38f984274faa8256b1403c6b616cbf)
-on May 23, 2020.
+from [SharikHR/review@bc30b60](https://github.com/SharikHR/review/tree/bc30b606761cd14682934a74b1c6218d8989ec6f)
+on May 27, 2020.
 </em></small>
 
 ## Authors
@@ -141,7 +141,7 @@ A hallmark of pancreatic ductal adenocarcionoma (PDA) is a pronounced collagen-r
 
 ## Introduction
 
-PDA belongs to the top five of cancer-related deaths in the world and the poor prognosis is primarily due to its advanced stage at diagnosis , the progress in its treatment remains too slow as a consequence of the complex physiopathology of this tumor characterized by a heterogeneous cellular composition and the accumulation of a very dense fibrotic tissue @doi:10.1158/1078-0432.CCR-11-3114.
+PDA belongs to the top ten of cancer-related deaths in the world @https://gco.iarc.fr and the poor prognosis is primarily due to its advanced stage at diagnosis , the progress in it's treatment remains too slow as a consequence of the complex physiopathology of this tumor characterized by a heterogeneous cellular composition and the accumulation of a very dense fibrotic tissue @doi:10.1158/1078-0432.CCR-11-3114.
 Due to that pancreatic cancer is a heterogeneous disease, is often modelled using established cell lines in the laboratory.
 
 Two dimensional (2D) monocultures of isolated cancer cells do not show any structural architecture and lack the complex physiology and the microenvironment of real tumor tissues such as fibroblasts, macrophages, endothelial cells, immune cells which are embedded in an extracellular matrix (ECM) @doi:10.1186/s13058-016-0740-2. Gene expression and signalling pathways are altered during monolayer conditions when compared to cells grown in the native tumor tissue [@doi:10.1186/s12885-018-4145-8; @doi:10.3892/or.2016.4581]. Moreover, when cells are 
