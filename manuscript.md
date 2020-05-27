@@ -67,11 +67,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://SharikHR.github.io/review/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://SharikHR.github.io/review/v/bc30b606761cd14682934a74b1c6218d8989ec6f/" />
+  <link rel="alternate" type="text/html" href="https://SharikHR.github.io/review/v/39959bfd8c6cc3c4a24ffc0eb79f69464ae38d46/" />
 
-  <meta name="manubot_html_url_versioned" content="https://SharikHR.github.io/review/v/bc30b606761cd14682934a74b1c6218d8989ec6f/" />
+  <meta name="manubot_html_url_versioned" content="https://SharikHR.github.io/review/v/39959bfd8c6cc3c4a24ffc0eb79f69464ae38d46/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://SharikHR.github.io/review/v/bc30b606761cd14682934a74b1c6218d8989ec6f/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://SharikHR.github.io/review/v/39959bfd8c6cc3c4a24ffc0eb79f69464ae38d46/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -106,9 +106,9 @@ title: 3D tumor spheroids
 
 <small><em>
 This manuscript
-([permalink](https://SharikHR.github.io/review/v/bc30b606761cd14682934a74b1c6218d8989ec6f/))
+([permalink](https://SharikHR.github.io/review/v/39959bfd8c6cc3c4a24ffc0eb79f69464ae38d46/))
 was automatically generated
-from [SharikHR/review@bc30b60](https://github.com/SharikHR/review/tree/bc30b606761cd14682934a74b1c6218d8989ec6f)
+from [SharikHR/review@39959bf](https://github.com/SharikHR/review/tree/39959bfd8c6cc3c4a24ffc0eb79f69464ae38d46)
 on May 27, 2020.
 </em></small>
 
@@ -251,6 +251,9 @@ In the last years the characterization of a novel 3D tumor model has been in ful
 A triple co-culture of pancreatic cancer cells (PANC-1), fibroblasts (MRC-5) and endothelial cells (HUVEC) to form a heterotype multicellular spheroid. The integration of the three cell types enable the presence of a core rich in fibroblasts and fibronectin in which endothelial cells are homogeneously distributed @doi:10.1016/j.actbio.2018.08.008.
 
 A microchannel model allow to develop a 3D pancreatic tumor in *vitro* by co-culturing pancreatic tumor spheroids with PSC in a collagen matrix. Under these conditions spheroids and PSCs are mutually activated when co-cultured. Under co-culture condition, tumor spheroids acquire a migratory phenotype with cancer cell-cell interactions, cell-ECM interactions, and cancer cell-PSC interactions @doi:10.1186/s13046-017-0654-6. Additionally, a humanized PDA model in microfluidic device has been developed that incorporates the *in vivo* complexities of multicellularity, ECM components, and a rationally-defined 3D microarchitecture. This humanized PDA model monitors the interactions between primary PSCs (from patients with PDA), cancer cells (PANC-1), and ECM components (neonatal human dermal fibroblasts) within the PDA microenvironment @doi:10.1039/c3lc50487e.
+
+
+
 
 
 
