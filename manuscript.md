@@ -67,11 +67,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://SharikHR.github.io/review/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://SharikHR.github.io/review/v/651b2b6edc6b60131f9085c75fa32ce4cc34d621/" />
+  <link rel="alternate" type="text/html" href="https://SharikHR.github.io/review/v/02334f9801d261f26618b1e6ca09859d1731fdc1/" />
 
-  <meta name="manubot_html_url_versioned" content="https://SharikHR.github.io/review/v/651b2b6edc6b60131f9085c75fa32ce4cc34d621/" />
+  <meta name="manubot_html_url_versioned" content="https://SharikHR.github.io/review/v/02334f9801d261f26618b1e6ca09859d1731fdc1/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://SharikHR.github.io/review/v/651b2b6edc6b60131f9085c75fa32ce4cc34d621/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://SharikHR.github.io/review/v/02334f9801d261f26618b1e6ca09859d1731fdc1/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -106,9 +106,9 @@ title: 3D tumor spheroids
 
 <small><em>
 This manuscript
-([permalink](https://SharikHR.github.io/review/v/651b2b6edc6b60131f9085c75fa32ce4cc34d621/))
+([permalink](https://SharikHR.github.io/review/v/02334f9801d261f26618b1e6ca09859d1731fdc1/))
 was automatically generated
-from [SharikHR/review@651b2b6](https://github.com/SharikHR/review/tree/651b2b6edc6b60131f9085c75fa32ce4cc34d621)
+from [SharikHR/review@02334f9](https://github.com/SharikHR/review/tree/02334f9801d261f26618b1e6ca09859d1731fdc1)
 on May 28, 2020.
 </em></small>
 
@@ -162,8 +162,7 @@ Interactions between the neoplastic and non-neoplastic cells and cellular matrix
 
 PDAC tumours are enriched in collagen where cancer cells form gland-like structures, the main collagen proteins found in human PDAC are collagens I and IV @doi:10.1038/ncomms16031. Collectively, had been demostrated PDAC extracellular matrix also represents a nutrient reservoir for tumour cells when other fuels are limited @doi:10.1038/ncomms16031.
 
-The interstitial matrix-associated collagens I/III, the basement membrane-associated collagen IV and the glycosaminoglycan hyaluronan have been found expressed at high levels in primary tumors and metastatic lesions in pancreatic cancer and are associated with poor survival[@doi:10.1158/1078-0432.CCR-14-1051]. Likewise, collagen type V is expressed by pancreatic stellate cells in the stroma of pancreatic ductal adenocarcinoma and promotes the malignant phenotype in pancreatic cancer cell lines @doi:10.1016/j.canlet.2014.10.020.
-Likewise, collagen type V is expressed by pancreatic stellate cells in the stroma of pancreatic ductal adenocarcinoma and promotes the malignant phenotype in pancreatic cancer cell lines @doi:10.1016/j.canlet.2014.10.020. In contrast, collagen XV a secreted non-fibrillar collagen reduces invasion of pancreatic adenocarcinoma cells therefore hab been proposed as a tumor suppressor in the basement membrane zone [@doi:10.1371/journal.pone.0072250; @doi:10.1089/104454903321908601].
+The interstitial matrix-associated collagens I/III, the basement membrane-associated collagen IV and the glycosaminoglycan hyaluronan have been found expressed at high levels in primary tumors and metastatic lesions in pancreatic cancer and are associated with poor survival[@doi:10.1158/1078-0432.CCR-14-1051]. Likewise, collagen type V is expressed by pancreatic stellate cells in the stroma of pancreatic ductal adenocarcinoma and promotes the malignant phenotype in pancreatic cancer cell lines @doi:10.1016/j.canlet.2014.10.020. In contrast, collagen XV a secreted non-fibrillar collagen reduces invasion of pancreatic adenocarcinoma cells therefore hab been proposed as a tumor suppressor in the basement membrane zone [@doi:10.1371/journal.pone.0072250; @doi:10.1089/104454903321908601].
 
 Matrix metalloproteinases (MMPs) are a family of zinc-dependent endopeptidases, they are involved in degradation of the extracellular matrix . MMPs support tissue remodeling and stimulate neovascularization and inflammatory response, both in physiological and in pathological conditions, for example, in tumors @doi:10.1006/cbir.2000.0647.
 
