@@ -4,7 +4,7 @@ author-meta:
 - null
 bibliography:
 - content/manual-references.json
-date-meta: '2020-05-27'
+date-meta: '2020-05-28'
 header-includes: '<!--
 
   Manubot generated metadata rendered from header-includes-template.html.
@@ -23,9 +23,9 @@ header-includes: '<!--
 
   <meta property="twitter:title" content="3D tumor spheroids" />
 
-  <meta name="dc.date" content="2020-05-27" />
+  <meta name="dc.date" content="2020-05-28" />
 
-  <meta name="citation_publication_date" content="2020-05-27" />
+  <meta name="citation_publication_date" content="2020-05-28" />
 
   <meta name="dc.language" content="en-US" />
 
@@ -67,11 +67,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://SharikHR.github.io/review/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://SharikHR.github.io/review/v/39959bfd8c6cc3c4a24ffc0eb79f69464ae38d46/" />
+  <link rel="alternate" type="text/html" href="https://SharikHR.github.io/review/v/651b2b6edc6b60131f9085c75fa32ce4cc34d621/" />
 
-  <meta name="manubot_html_url_versioned" content="https://SharikHR.github.io/review/v/39959bfd8c6cc3c4a24ffc0eb79f69464ae38d46/" />
+  <meta name="manubot_html_url_versioned" content="https://SharikHR.github.io/review/v/651b2b6edc6b60131f9085c75fa32ce4cc34d621/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://SharikHR.github.io/review/v/39959bfd8c6cc3c4a24ffc0eb79f69464ae38d46/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://SharikHR.github.io/review/v/651b2b6edc6b60131f9085c75fa32ce4cc34d621/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -106,10 +106,10 @@ title: 3D tumor spheroids
 
 <small><em>
 This manuscript
-([permalink](https://SharikHR.github.io/review/v/39959bfd8c6cc3c4a24ffc0eb79f69464ae38d46/))
+([permalink](https://SharikHR.github.io/review/v/651b2b6edc6b60131f9085c75fa32ce4cc34d621/))
 was automatically generated
-from [SharikHR/review@39959bf](https://github.com/SharikHR/review/tree/39959bfd8c6cc3c4a24ffc0eb79f69464ae38d46)
-on May 27, 2020.
+from [SharikHR/review@651b2b6](https://github.com/SharikHR/review/tree/651b2b6edc6b60131f9085c75fa32ce4cc34d621)
+on May 28, 2020.
 </em></small>
 
 ## Authors
@@ -141,11 +141,11 @@ A hallmark of pancreatic ductal adenocarcionoma (PDA) is a pronounced collagen-r
 
 ## Introduction
 
-PDA belongs to the top ten of cancer-related deaths in the world @https://gco.iarc.fr and the poor prognosis is primarily due to its advanced stage at diagnosis , the progress in it's treatment remains too slow as a consequence of the complex physiopathology of this tumor characterized by a heterogeneous cellular composition and the accumulation of a very dense fibrotic tissue @doi:10.1158/1078-0432.CCR-11-3114.
+Pancreatic cancer belongs to the top ten of cancer-related deaths in the world @url:https://gco.iarc.fr and the poor prognosis is primarily due to its advanced stage at diagnosis , the progress in it's treatment remains too slow as a consequence of the complex physiopathology of this tumor.
+The most common type of pancreatic cancer is pancreatic ductal adenocarcinoma (PDAC) characterized by a heterogeneous cellular composition and the accumulation of a very dense fibrotic tissue @doi:10.1158/1078-0432.CCR-11-3114.
 Due to that pancreatic cancer is a heterogeneous disease, is often modelled using established cell lines in the laboratory.
 
-Two dimensional (2D) monocultures of isolated cancer cells do not show any structural architecture and lack the complex physiology and the microenvironment of real tumor tissues such as fibroblasts, macrophages, endothelial cells, immune cells which are embedded in an extracellular matrix (ECM) @doi:10.1186/s13058-016-0740-2. Gene expression and signalling pathways are altered during monolayer conditions when compared to cells grown in the native tumor tissue [@doi:10.1186/s12885-018-4145-8; @doi:10.3892/or.2016.4581]. Moreover, when cells are 
-growing in monolayer they do not replicate cell-to-cell and cell-to-ECM interactions, and the oxygen and pH gradients @doi:10.3390/ijms16035517.
+Two dimensional (2D) monocultures of isolated cancer cells do not show any structural architecture and lack the complex physiology and the microenvironment of real tumor tissues such as fibroblasts, macrophages, endothelial cells, immune cells which are embedded in an extracellular matrix (ECM) @doi:10.1186/s13058-016-0740-2. Gene expression and signalling pathways are altered during monolayer conditions when compared to cells grown in the native tumor tissue [@doi:10.1186/s12885-018-4145-8; @doi:10.3892/or.2016.4581]. Moreover, when cells are growing in monolayer they do not replicate cell-to-cell and cell-to-ECM interactions, and the oxygen and pH gradients @doi:10.3390/ijms16035517.
 However, there is an urgent need to make the use of models capable of closely mimicking the heterogeneity and the microenvironment of the in vivo conditions.
 
 In recent years, three-dimensional (3D) culture systems have gained increasing recognition as an effective tool for biological research. One widely used 3D culturing technique is the application of multicellular spheroids (MCS).Cells cultured in 3D more closely mimic the physiological environment compared to conventional monolayer culture systems. Spheroids are three-dimensional spherical cellular aggregates with high cell-density, that more closely simulate conditions existing in solid tumors where hypoxia and alterations related to intracellular metabolism occur due to poor availability of nutrients from blood vessels @doi:10.1371/journal.pone.0177737.
@@ -155,10 +155,15 @@ Aiming to face this issue, this review will provide an overview of the applicati
 
 ## Pancreatic tumor microenvironment
 
-In Pancreatic ductal adenocarcinoma (PDA), the major components of the tumor microenvironment are a complex population of fibroblasts forming the bulk of the stroma, vasculature, inflammatory and immune cells @doi:10.1002/jcb.21209.
-PDA is associated with evolving alterations in the tumor microenvironment, including increasing fibrosis and extracellular matrix deposition (desmoplasia). Increasing desmoplasia accompanies progressive disease and creates intratumoral pressure that compresses the vasculature, resulting in limited blood flow to the tumor and consequent hypoxia and low nutrient delivery @doi:10.1158/2159-8290.CD-15-0671.
+In Pancreatic ductal adenocarcinoma (PDAC), the major components of the tumor microenvironment are a complex population of fibroblasts forming the bulk of the stroma, vasculature, inflammatory and immune cells @doi:10.1002/jcb.21209.
+PDAC is associated with evolving alterations in the tumor microenvironment, including increasing fibrosis and extracellular matrix deposition (desmoplasia). Increasing desmoplasia accompanies progressive disease and creates intratumoral pressure that compresses the vasculature, resulting in limited blood flow to the tumor and consequent hypoxia and low nutrient delivery @doi:10.1158/2159-8290.CD-15-0671.
 
 Interactions between the neoplastic and non-neoplastic cells and cellular matrix have been proposed to stimulate the extensive desmoplastic reaction. Stroma production is promoted by the activation of multiple cell signalling pathways [@doi:10.1002/ijc.22178; @doi:10.1002/mc.20827] these signalling cascades lead to secretion of structural matrix components including proteoglycans, collagen and fibronectin and the activation of catalytic enzymes such as proteinases.
+
+PDAC tumours are enriched in collagen where cancer cells form gland-like structures, the main collagen proteins found in human PDAC are collagens I and IV @doi:10.1038/ncomms16031. Collectively, had been demostrated PDAC extracellular matrix also represents a nutrient reservoir for tumour cells when other fuels are limited @doi:10.1038/ncomms16031.
+
+The interstitial matrix-associated collagens I/III, the basement membrane-associated collagen IV and the glycosaminoglycan hyaluronan have been found expressed at high levels in primary tumors and metastatic lesions in pancreatic cancer and are associated with poor survival[@doi:10.1158/1078-0432.CCR-14-1051]. Likewise, collagen type V is expressed by pancreatic stellate cells in the stroma of pancreatic ductal adenocarcinoma and promotes the malignant phenotype in pancreatic cancer cell lines @doi:10.1016/j.canlet.2014.10.020.
+Likewise, collagen type V is expressed by pancreatic stellate cells in the stroma of pancreatic ductal adenocarcinoma and promotes the malignant phenotype in pancreatic cancer cell lines @doi:10.1016/j.canlet.2014.10.020. In contrast, collagen XV a secreted non-fibrillar collagen reduces invasion of pancreatic adenocarcinoma cells therefore hab been proposed as a tumor suppressor in the basement membrane zone [@doi:10.1371/journal.pone.0072250; @doi:10.1089/104454903321908601].
 
 Matrix metalloproteinases (MMPs) are a family of zinc-dependent endopeptidases, they are involved in degradation of the extracellular matrix . MMPs support tissue remodeling and stimulate neovascularization and inflammatory response, both in physiological and in pathological conditions, for example, in tumors @doi:10.1006/cbir.2000.0647.
 
@@ -167,6 +172,9 @@ MMP-2, MMP-7, and MMP-9 expressions correlate with various morphological feature
 Pancreatic stellate cells (PSC) are responsible for desmoplasic generation @doi:10.1111/cas.13847. The activation of PSC from a quiescent to an activated state is an intercellular stimuli from tumor‐stromal interactions. PCS can be transform into myofibroblast‐like cells, which express α‐smooth muscle actin (α‐SMA) as cancer‐associated fibroblasts (CAF) [@doi:10.1053/j.gastro.2012.11.037; @doi:10.1053/j.gastro.2010.05.084]. 
 
 CAF are important components of tumor stroma and affect cancer growth, survival, metastasis, angiogenesis and resistance to chemotherapy or radiotherapy through various cytokines @doi:10.2217/fon.15.176, and contribute to a diminished immune function @doi:10.3389/fimmu.2019.00847.
+
+	
+
 
 
 ## 2D and 3D cell culture
@@ -236,7 +244,7 @@ The emergence of “tumor-on-chip” technology provides an alternative to study
 
 Microfluidic channels are used to promote the formation of cellular aggregates. This method opens possibilities for the continuous production of highly controlled aggregates. However, this method currently requieres a technological capacity @doi:10.1039/b618439a.
 
-
+### Three-Dimensional Organoids
 
 ## MCS and PDA
 Due to that pancreatic cancer is a heterogeneous disease researchers have been developed models capable to reproduce *in vitro* the heterogeneous tumor microenvironment.
