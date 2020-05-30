@@ -67,11 +67,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://SharikHR.github.io/review/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://SharikHR.github.io/review/v/f99fe682ff39cb777d139c89e6cdc0859de691ee/" />
+  <link rel="alternate" type="text/html" href="https://SharikHR.github.io/review/v/f32698fa976996f319d0d54cdd86d48988b20093/" />
 
-  <meta name="manubot_html_url_versioned" content="https://SharikHR.github.io/review/v/f99fe682ff39cb777d139c89e6cdc0859de691ee/" />
+  <meta name="manubot_html_url_versioned" content="https://SharikHR.github.io/review/v/f32698fa976996f319d0d54cdd86d48988b20093/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://SharikHR.github.io/review/v/f99fe682ff39cb777d139c89e6cdc0859de691ee/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://SharikHR.github.io/review/v/f32698fa976996f319d0d54cdd86d48988b20093/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -106,9 +106,9 @@ title: 3D tumor spheroids
 
 <small><em>
 This manuscript
-([permalink](https://SharikHR.github.io/review/v/f99fe682ff39cb777d139c89e6cdc0859de691ee/))
+([permalink](https://SharikHR.github.io/review/v/f32698fa976996f319d0d54cdd86d48988b20093/))
 was automatically generated
-from [SharikHR/review@f99fe68](https://github.com/SharikHR/review/tree/f99fe682ff39cb777d139c89e6cdc0859de691ee)
+from [SharikHR/review@f32698f](https://github.com/SharikHR/review/tree/f32698fa976996f319d0d54cdd86d48988b20093)
 on May 30, 2020.
 </em></small>
 
@@ -165,7 +165,7 @@ PDAC tumours are enriched in collagen where cancer cells form gland-like structu
 
 The interstitial matrix-associated collagens I/III, the basement membrane-associated collagen IV and the glycosaminoglycan hyaluronan have been found expressed at high levels in primary tumors and metastatic lesions in pancreatic cancer and are associated with poor survival[@doi:10.1158/1078-0432.CCR-14-1051]. Likewise, collagen type V is expressed by pancreatic stellate cells in the stroma of pancreatic ductal adenocarcinoma and promotes the malignant phenotype in pancreatic cancer cell lines @doi:10.1016/j.canlet.2014.10.020. In contrast, collagen XV a secreted non-fibrillar collagen reduces invasion of pancreatic adenocarcinoma cells therefore hab been proposed as a tumor suppressor in the basement membrane zone [@doi:10.1371/journal.pone.0072250; @doi:10.1089/104454903321908601].
 
-The laminins are a family of extracellular matrix glycoproteins localized in the basement membrane that separates epithellal cells from the underlying stroma. They are involved in several biological processes including cell-matrix, cell growth, migration, tumour growth and metastases @doi:10.1016/1357-2725(96)00042-8.
+The laminins are a family of extracellular matrix glycoproteins localized in the basement membrane that separates epithellal cells from the underlying stroma. They are involved in several biological processes including cell-matrix, cell growth, migration, tumour growth and metastases @doi:10/bxqv94.
 
 Laminin-332 is a major member of the laminin family, consisting of α3, β3, and γ2 chains, encoded by the LAMA3, LAMB3, and LAMC2 genes, respectively. Laminin subunit beta-3 (LAMB3) is upregulated in PDAC and suppressing its expression reduces cell proliferation, invasion, and migration by downregulating epithelial‒mesenchymal transition (EMT)-related proteins (N-cadherin, vimentin, Snail, Slug) by regulation of PI3K/Akt signaling pathway @doi:10.1038/s41419-019-1320-z; @doi:10.3892/ol.2018.8678. Besides, the expression of laminin subunits LAMA3 and LAMC2 are upregulated with a favorable ability of distinguishing between PDAC and non-tumor tissues @doi:10.18632/aging.102007; @doi:10.3892/ol.2018.8678; @doi:10.1074/mcp.M112.023507. 
 
