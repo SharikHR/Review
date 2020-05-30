@@ -4,7 +4,7 @@ author-meta:
 - null
 bibliography:
 - content/manual-references.json
-date-meta: '2020-05-29'
+date-meta: '2020-05-30'
 header-includes: '<!--
 
   Manubot generated metadata rendered from header-includes-template.html.
@@ -23,9 +23,9 @@ header-includes: '<!--
 
   <meta property="twitter:title" content="3D tumor spheroids" />
 
-  <meta name="dc.date" content="2020-05-29" />
+  <meta name="dc.date" content="2020-05-30" />
 
-  <meta name="citation_publication_date" content="2020-05-29" />
+  <meta name="citation_publication_date" content="2020-05-30" />
 
   <meta name="dc.language" content="en-US" />
 
@@ -67,11 +67,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://SharikHR.github.io/review/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://SharikHR.github.io/review/v/d24182ac167d41226478d068c6f93b1a5c021125/" />
+  <link rel="alternate" type="text/html" href="https://SharikHR.github.io/review/v/a3de14a8c7d0627538dd95393e052e166c2eec34/" />
 
-  <meta name="manubot_html_url_versioned" content="https://SharikHR.github.io/review/v/d24182ac167d41226478d068c6f93b1a5c021125/" />
+  <meta name="manubot_html_url_versioned" content="https://SharikHR.github.io/review/v/a3de14a8c7d0627538dd95393e052e166c2eec34/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://SharikHR.github.io/review/v/d24182ac167d41226478d068c6f93b1a5c021125/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://SharikHR.github.io/review/v/a3de14a8c7d0627538dd95393e052e166c2eec34/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -106,10 +106,10 @@ title: 3D tumor spheroids
 
 <small><em>
 This manuscript
-([permalink](https://SharikHR.github.io/review/v/d24182ac167d41226478d068c6f93b1a5c021125/))
+([permalink](https://SharikHR.github.io/review/v/a3de14a8c7d0627538dd95393e052e166c2eec34/))
 was automatically generated
-from [SharikHR/review@d24182a](https://github.com/SharikHR/review/tree/d24182ac167d41226478d068c6f93b1a5c021125)
-on May 29, 2020.
+from [SharikHR/review@a3de14a](https://github.com/SharikHR/review/tree/a3de14a8c7d0627538dd95393e052e166c2eec34)
+on May 30, 2020.
 </em></small>
 
 ## Authors
@@ -168,6 +168,9 @@ The interstitial matrix-associated collagens I/III, the basement membrane-associ
 The laminins are a family of extracellular matrix glycoproteins localized in the basement membrane that separates epithellal cells from the underlying stroma. They are involved in several biological processes including cell-matrix, cell growth, migration, tumour growth and metastases [@doi:10.1016/1357-2725(96)00042-8].
 
 Laminin-332 is a major member of the laminin family, consisting of α3, β3, and γ2 chains, encoded by the LAMA3, LAMB3, and LAMC2 genes, respectively. Laminin subunit beta-3 (LAMB3) is upregulated in PDAC and suppressing its expression reduces cell proliferation, invasion, and migration by downregulating epithelial‒mesenchymal transition (EMT)-related proteins (N-cadherin, vimentin, Snail, Slug) by regulation of PI3K/Akt signaling pathway @doi:10.1038/s41419-019-1320-z; @doi:10.3892/ol.2018.8678. Besides, the expression of laminin subunits LAMA3 and LAMC2 are upregulated with a favorable ability of distinguishing between PDAC and non-tumor tissues @doi:10.18632/aging.102007; @doi:10.3892/ol.2018.8678; @doi:10.1074/mcp.M112.023507. 
+
+Fibronectin is an extracellular matrix ECM glycoprotein that supports cell-ECM interactions and is crucial for wound healing response, development, and maintaining tissue homeostasis @doi:10.1016/j.canlet.2015.12.027. Moreover,Fibronectin is an extracellular protein that is upregulated in pancreatic cancer and confers chemoresistance and metastasis @doi:doi.org/10.1186/s12885-019-5803-1; @doi: 10.1186/s12957-019-1574-z. 
+Fibronectin induces distinct signals that promote survival and migration of PDAC cells @doi:10.1016/j.canlet.2015.12.027.Cell surface integrins are the most well characterized receptors for fibronectin. Fibronectin binds to integrin receptors (α5β1), thereby activating the FAK pathway @doi:10.1126/science.285.5430.1028: @doi:10.1016/s0002-9440(10)65005-5. These signals regulates cellular responses such as survival, proliferation, differentiation, adhesion and migration @doi:10.1242/jcs.018093; @doi:10.1242/jcs.01014. 
 
 Matrix metalloproteinases (MMPs) are a family of zinc-dependent endopeptidases, they are involved in degradation of the extracellular matrix . MMPs support tissue remodeling and stimulate neovascularization and inflammatory response, both in physiological and in pathological conditions, for example, in tumors @doi:10.1006/cbir.2000.0647.
 
