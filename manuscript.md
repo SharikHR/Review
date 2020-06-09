@@ -4,7 +4,7 @@ author-meta:
 - null
 bibliography:
 - content/manual-references.json
-date-meta: '2020-05-30'
+date-meta: '2020-06-09'
 header-includes: '<!--
 
   Manubot generated metadata rendered from header-includes-template.html.
@@ -23,9 +23,9 @@ header-includes: '<!--
 
   <meta property="twitter:title" content="3D tumor spheroids" />
 
-  <meta name="dc.date" content="2020-05-30" />
+  <meta name="dc.date" content="2020-06-09" />
 
-  <meta name="citation_publication_date" content="2020-05-30" />
+  <meta name="citation_publication_date" content="2020-06-09" />
 
   <meta name="dc.language" content="en-US" />
 
@@ -67,11 +67,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://SharikHR.github.io/review/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://SharikHR.github.io/review/v/16817c4583f007b9d67cfe86d256b1c2071a18f6/" />
+  <link rel="alternate" type="text/html" href="https://SharikHR.github.io/review/v/695c0778a78d3144659c8d369480bd78ad411fa1/" />
 
-  <meta name="manubot_html_url_versioned" content="https://SharikHR.github.io/review/v/16817c4583f007b9d67cfe86d256b1c2071a18f6/" />
+  <meta name="manubot_html_url_versioned" content="https://SharikHR.github.io/review/v/695c0778a78d3144659c8d369480bd78ad411fa1/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://SharikHR.github.io/review/v/16817c4583f007b9d67cfe86d256b1c2071a18f6/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://SharikHR.github.io/review/v/695c0778a78d3144659c8d369480bd78ad411fa1/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -106,10 +106,10 @@ title: 3D tumor spheroids
 
 <small><em>
 This manuscript
-([permalink](https://SharikHR.github.io/review/v/16817c4583f007b9d67cfe86d256b1c2071a18f6/))
+([permalink](https://SharikHR.github.io/review/v/695c0778a78d3144659c8d369480bd78ad411fa1/))
 was automatically generated
-from [SharikHR/review@16817c4](https://github.com/SharikHR/review/tree/16817c4583f007b9d67cfe86d256b1c2071a18f6)
-on May 30, 2020.
+from [SharikHR/review@695c077](https://github.com/SharikHR/review/tree/695c0778a78d3144659c8d369480bd78ad411fa1)
+on June 9, 2020.
 </em></small>
 
 ## Authors
@@ -179,7 +179,7 @@ MMP-2, MMP-7, and MMP-9 expressions correlate with various morphological feature
 Pancreatic stellate cells (PSC) are responsible for desmoplasic generation @doi:10.1111/cas.13847. The activation of PSC from a quiescent to an activated state is an intercellular stimuli from tumor‐stromal interactions. PCS can be transform into myofibroblast‐like cells, which express α‐smooth muscle actin (α‐SMA) as cancer‐associated fibroblasts (CAF) [@doi:10.1053/j.gastro.2012.11.037; @doi:10.1053/j.gastro.2010.05.084]. 
 
 CAF are important components of tumor stroma and affect cancer growth, survival, metastasis, angiogenesis and resistance to chemotherapy or radiotherapy through various cytokines @doi:10.2217/fon.15.176, and contribute to a diminished immune function @doi:10.3389/fimmu.2019.00847.
-
+Indirect co-culture of CAFs and pancreatic cancer cells by conditioned media alters the metabolic mechanism enhancing cell migration *in vitro* @doi:10.3892/or.2017.5479. 
 	
 
 
